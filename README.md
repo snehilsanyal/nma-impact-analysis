@@ -1,1 +1,2 @@
-# academy-impact-analysis
+# Neuromatch Academy Impact Analysis
+
