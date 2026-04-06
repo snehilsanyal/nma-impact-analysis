@@ -1,0 +1,1501 @@
+user_id,role,country,timezone,gender,education_level,field_of_study,years_experience,prior_neuromatch,preferred_language,interest_area,availability_slot
+U00001,student,Germany,UTC+1,Non-binary,PhD,CS,7,0,Spanish,Time Series,Slot 5
+U00002,student,Canada,UTC-5,Male,Masters,Neuro,2,0,English,CV,Slot 4
+U00003,student,UK,UTC+0,Female,UG,AI,4,0,French,Neural Coding,Slot 1
+U00004,student,Canada,UTC-5,Male,Masters,Neuro,5,0,French,Neural Coding,Slot 4
+U00005,student,USA,UTC-5,Female,UG,Neuro,5,0,French,Climate,Slot 2
+U00006,instructor,USA,UTC-5,Male,PhD,AI,0,0,French,Neural Coding,Slot 2
+U00007,student,USA,UTC-5,Female,Masters,Climate,8,0,French,CV,Slot 3
+U00008,student,UK,UTC+0,Male,PhD,Neuro,9,0,English,Climate,Slot 2
+U00009,instructor,Germany,UTC+1,Male,Masters,Climate,2,0,French,Time Series,Slot 5
+U00010,instructor,Germany,UTC+1,Non-binary,Masters,CS,8,0,Spanish,Neural Coding,Slot 3
+U00011,student,Canada,UTC-5,Female,UG,AI,4,0,French,CV,Slot 4
+U00012,student,Canada,UTC-5,Non-binary,Masters,AI,8,1,French,CV,Slot 2
+U00013,student,Kenya,UTC+3,Non-binary,PhD,Climate,8,0,Hindi,NLP,Slot 2
+U00014,student,Brazil,UTC-3,Non-binary,Masters,CS,6,0,English,Neural Coding,Slot 2
+U00015,student,Brazil,UTC-3,Non-binary,Masters,CS,2,1,Hindi,RL,Slot 5
+U00016,student,Japan,UTC+9,Non-binary,Masters,CS,7,0,English,Time Series,Slot 5
+U00017,student,Kenya,UTC+3,Non-binary,Masters,CS,5,0,French,RL,Slot 2
+U00018,student,Japan,UTC+9,Male,PhD,Neuro,1,0,Spanish,Climate,Slot 1
+U00019,ta,Kenya,UTC+3,Non-binary,PhD,AI,3,0,Spanish,NLP,Slot 2
+U00020,ta,India,UTC+5:30,Non-binary,Masters,Climate,7,0,English,Neural Coding,Slot 3
+U00021,student,Kenya,UTC+3,Male,UG,AI,7,1,English,Neural Coding,Slot 4
+U00022,student,USA,UTC-5,Non-binary,UG,AI,4,0,Hindi,Climate,Slot 2
+U00023,instructor,Kenya,UTC+3,Non-binary,PhD,Climate,8,0,Spanish,Climate,Slot 2
+U00024,student,Kenya,UTC+3,Female,PhD,Neuro,8,1,Hindi,Climate,Slot 4
+U00025,student,USA,UTC-5,Male,UG,CS,7,0,French,Neural Coding,Slot 5
+U00026,student,Germany,UTC+1,Non-binary,UG,CS,0,0,English,Time Series,Slot 1
+U00027,student,Germany,UTC+1,Male,UG,Neuro,4,1,English,Climate,Slot 2
+U00028,student,Kenya,UTC+3,Non-binary,Masters,AI,6,1,Spanish,Time Series,Slot 5
+U00029,student,Japan,UTC+9,Male,Masters,Climate,0,0,Spanish,Neural Coding,Slot 1
+U00030,student,Canada,UTC-5,Female,Masters,Climate,7,0,Hindi,Time Series,Slot 1
+U00031,student,USA,UTC-5,Male,Masters,Neuro,5,1,English,CV,Slot 2
+U00032,student,Germany,UTC+1,Non-binary,Masters,AI,4,1,Hindi,CV,Slot 3
+U00033,student,Japan,UTC+9,Male,UG,Climate,4,0,English,Neural Coding,Slot 5
+U00034,student,India,UTC+5:30,Male,UG,AI,6,0,Hindi,RL,Slot 4
+U00035,student,Germany,UTC+1,Female,UG,AI,9,0,Hindi,Neural Coding,Slot 4
+U00036,student,Kenya,UTC+3,Female,Masters,Climate,6,0,Hindi,CV,Slot 2
+U00037,student,Kenya,UTC+3,Male,UG,CS,3,1,French,Neural Coding,Slot 1
+U00038,student,Japan,UTC+9,Non-binary,PhD,AI,3,1,English,Climate,Slot 1
+U00039,student,Brazil,UTC-3,Male,PhD,CS,2,0,Spanish,RL,Slot 1
+U00040,ta,Germany,UTC+1,Non-binary,PhD,CS,8,0,English,RL,Slot 5
+U00041,student,UK,UTC+0,Female,UG,Neuro,3,1,Spanish,NLP,Slot 4
+U00042,student,Brazil,UTC-3,Non-binary,PhD,Neuro,9,0,Hindi,NLP,Slot 1
+U00043,student,India,UTC+5:30,Female,PhD,CS,0,0,English,Climate,Slot 2
+U00044,student,Kenya,UTC+3,Male,Masters,CS,8,1,Spanish,NLP,Slot 3
+U00045,ta,Brazil,UTC-3,Female,PhD,Neuro,6,0,English,Time Series,Slot 5
+U00046,student,Kenya,UTC+3,Non-binary,UG,AI,4,0,French,Neural Coding,Slot 1
+U00047,student,Brazil,UTC-3,Female,Masters,AI,7,1,French,CV,Slot 3
+U00048,student,Japan,UTC+9,Female,UG,CS,7,0,Hindi,NLP,Slot 1
+U00049,student,India,UTC+5:30,Female,UG,Neuro,0,0,Spanish,Time Series,Slot 4
+U00050,student,Canada,UTC-5,Non-binary,UG,CS,6,0,English,Time Series,Slot 2
+U00051,student,India,UTC+5:30,Female,PhD,AI,0,1,Hindi,CV,Slot 1
+U00052,student,Kenya,UTC+3,Female,UG,Neuro,1,0,Spanish,Time Series,Slot 2
+U00053,student,USA,UTC-5,Female,PhD,Climate,4,0,Spanish,CV,Slot 2
+U00054,student,Brazil,UTC-3,Female,UG,AI,1,0,French,RL,Slot 2
+U00055,student,Kenya,UTC+3,Male,PhD,CS,5,0,Hindi,Neural Coding,Slot 4
+U00056,student,Germany,UTC+1,Male,Masters,Neuro,7,0,French,CV,Slot 2
+U00057,student,India,UTC+5:30,Non-binary,UG,Climate,7,0,French,NLP,Slot 1
+U00058,instructor,Kenya,UTC+3,Female,PhD,Climate,5,0,French,Neural Coding,Slot 1
+U00059,student,Kenya,UTC+3,Male,PhD,Neuro,0,0,English,Neural Coding,Slot 5
+U00060,student,Canada,UTC-5,Female,PhD,Neuro,2,0,Hindi,Climate,Slot 5
+U00061,student,USA,UTC-5,Female,PhD,AI,2,0,French,Neural Coding,Slot 4
+U00062,student,India,UTC+5:30,Non-binary,PhD,AI,3,0,French,RL,Slot 1
+U00063,student,UK,UTC+0,Non-binary,Masters,CS,0,0,French,Climate,Slot 3
+U00064,student,Canada,UTC-5,Female,Masters,Neuro,7,0,Spanish,CV,Slot 4
+U00065,student,Canada,UTC-5,Non-binary,PhD,AI,8,0,French,RL,Slot 5
+U00066,student,India,UTC+5:30,Female,Masters,AI,9,0,Hindi,Climate,Slot 5
+U00067,student,UK,UTC+0,Female,Masters,Climate,9,1,Spanish,Climate,Slot 4
+U00068,student,Brazil,UTC-3,Non-binary,UG,Neuro,0,0,French,Neural Coding,Slot 2
+U00069,student,Kenya,UTC+3,Male,UG,AI,4,1,English,Neural Coding,Slot 2
+U00070,student,Japan,UTC+9,Non-binary,UG,Climate,8,0,Hindi,Time Series,Slot 5
+U00071,student,Germany,UTC+1,Non-binary,PhD,Climate,2,1,Hindi,RL,Slot 2
+U00072,student,Brazil,UTC-3,Non-binary,PhD,CS,0,0,English,RL,Slot 2
+U00073,student,Brazil,UTC-3,Non-binary,PhD,Climate,7,0,English,Climate,Slot 2
+U00074,student,USA,UTC-5,Female,UG,Climate,2,0,French,RL,Slot 5
+U00075,ta,Canada,UTC-5,Non-binary,Masters,AI,8,0,Hindi,RL,Slot 3
+U00076,student,Germany,UTC+1,Non-binary,Masters,Climate,1,0,Spanish,NLP,Slot 4
+U00077,student,USA,UTC-5,Non-binary,Masters,AI,8,0,French,NLP,Slot 3
+U00078,student,USA,UTC-5,Male,UG,AI,4,0,Hindi,Time Series,Slot 2
+U00079,student,Germany,UTC+1,Male,Masters,Climate,7,1,French,Climate,Slot 4
+U00080,student,Canada,UTC-5,Male,UG,Climate,0,0,Hindi,Climate,Slot 1
+U00081,student,Canada,UTC-5,Female,UG,Neuro,5,0,French,RL,Slot 4
+U00082,student,Germany,UTC+1,Female,UG,Neuro,5,1,Hindi,RL,Slot 1
+U00083,student,Canada,UTC-5,Female,PhD,Climate,7,0,Spanish,RL,Slot 2
+U00084,student,India,UTC+5:30,Female,PhD,CS,0,0,English,Time Series,Slot 4
+U00085,student,Brazil,UTC-3,Female,UG,CS,4,0,French,RL,Slot 3
+U00086,student,Germany,UTC+1,Female,Masters,Neuro,3,0,Hindi,NLP,Slot 4
+U00087,student,Kenya,UTC+3,Male,Masters,CS,0,1,English,NLP,Slot 2
+U00088,student,USA,UTC-5,Non-binary,UG,CS,4,1,Spanish,CV,Slot 1
+U00089,student,Brazil,UTC-3,Male,UG,Climate,4,1,English,Climate,Slot 2
+U00090,student,Japan,UTC+9,Non-binary,Masters,Neuro,4,0,Spanish,Climate,Slot 5
+U00091,instructor,USA,UTC-5,Male,Masters,CS,3,0,English,NLP,Slot 5
+U00092,student,Canada,UTC-5,Female,PhD,AI,6,0,English,Climate,Slot 2
+U00093,student,USA,UTC-5,Non-binary,Masters,CS,1,0,English,NLP,Slot 5
+U00094,ta,Canada,UTC-5,Non-binary,Masters,CS,9,1,French,Neural Coding,Slot 4
+U00095,student,Japan,UTC+9,Male,Masters,Neuro,1,0,Hindi,Time Series,Slot 2
+U00096,instructor,Canada,UTC-5,Male,PhD,Neuro,1,0,Hindi,RL,Slot 4
+U00097,student,Kenya,UTC+3,Female,UG,CS,9,0,French,RL,Slot 2
+U00098,student,Japan,UTC+9,Non-binary,PhD,Climate,5,0,French,Neural Coding,Slot 4
+U00099,student,UK,UTC+0,Male,Masters,AI,6,0,French,NLP,Slot 3
+U00100,student,Kenya,UTC+3,Non-binary,PhD,Neuro,7,1,English,Climate,Slot 2
+U00101,student,USA,UTC-5,Male,PhD,Climate,8,0,Hindi,Climate,Slot 2
+U00102,student,Japan,UTC+9,Non-binary,PhD,Climate,7,0,Hindi,Neural Coding,Slot 1
+U00103,student,Kenya,UTC+3,Male,Masters,AI,2,0,French,Time Series,Slot 5
+U00104,student,UK,UTC+0,Female,PhD,Neuro,1,0,Hindi,Time Series,Slot 5
+U00105,student,UK,UTC+0,Female,PhD,Climate,2,0,French,NLP,Slot 3
+U00106,student,Germany,UTC+1,Male,PhD,AI,5,0,French,Neural Coding,Slot 5
+U00107,student,Brazil,UTC-3,Male,UG,Climate,3,0,French,Time Series,Slot 5
+U00108,student,Kenya,UTC+3,Male,UG,Neuro,4,0,Spanish,NLP,Slot 2
+U00109,student,Kenya,UTC+3,Male,PhD,AI,4,0,French,Neural Coding,Slot 1
+U00110,student,Kenya,UTC+3,Non-binary,UG,Climate,3,0,English,Neural Coding,Slot 5
+U00111,student,Kenya,UTC+3,Female,Masters,Climate,7,0,French,CV,Slot 1
+U00112,instructor,Kenya,UTC+3,Female,UG,CS,9,0,Hindi,RL,Slot 1
+U00113,student,India,UTC+5:30,Male,UG,Neuro,2,0,English,CV,Slot 1
+U00114,student,Canada,UTC-5,Non-binary,PhD,AI,4,0,Hindi,RL,Slot 4
+U00115,student,Kenya,UTC+3,Non-binary,Masters,Neuro,8,0,English,Climate,Slot 1
+U00116,student,Germany,UTC+1,Non-binary,UG,Neuro,9,0,English,CV,Slot 2
+U00117,student,Brazil,UTC-3,Non-binary,UG,AI,5,0,English,RL,Slot 4
+U00118,student,Japan,UTC+9,Female,UG,AI,4,0,French,Time Series,Slot 3
+U00119,student,Japan,UTC+9,Male,PhD,AI,4,0,French,Time Series,Slot 5
+U00120,student,Germany,UTC+1,Female,UG,AI,9,0,Spanish,NLP,Slot 2
+U00121,student,USA,UTC-5,Male,UG,Neuro,8,0,French,RL,Slot 1
+U00122,student,Japan,UTC+9,Non-binary,Masters,Climate,0,0,French,Climate,Slot 5
+U00123,instructor,Japan,UTC+9,Female,UG,CS,4,0,Hindi,Time Series,Slot 3
+U00124,student,Kenya,UTC+3,Male,UG,AI,4,0,English,Time Series,Slot 3
+U00125,student,India,UTC+5:30,Male,Masters,Climate,4,0,French,CV,Slot 5
+U00126,student,Canada,UTC-5,Non-binary,Masters,CS,4,1,Hindi,NLP,Slot 4
+U00127,student,UK,UTC+0,Female,PhD,CS,9,0,Spanish,NLP,Slot 4
+U00128,student,Japan,UTC+9,Female,PhD,Climate,0,0,English,RL,Slot 1
+U00129,student,UK,UTC+0,Female,Masters,CS,7,1,Hindi,Climate,Slot 1
+U00130,ta,Japan,UTC+9,Female,UG,AI,3,0,French,Climate,Slot 4
+U00131,student,Japan,UTC+9,Male,UG,Neuro,0,0,Spanish,NLP,Slot 4
+U00132,student,Japan,UTC+9,Male,UG,AI,4,0,Spanish,NLP,Slot 5
+U00133,student,India,UTC+5:30,Non-binary,Masters,CS,7,1,Spanish,Neural Coding,Slot 4
+U00134,student,USA,UTC-5,Non-binary,UG,Climate,1,0,French,Climate,Slot 3
+U00135,student,Canada,UTC-5,Female,Masters,AI,6,0,Hindi,Climate,Slot 2
+U00136,student,Canada,UTC-5,Male,PhD,AI,9,0,English,NLP,Slot 4
+U00137,student,UK,UTC+0,Non-binary,Masters,CS,2,0,French,Time Series,Slot 3
+U00138,student,Japan,UTC+9,Male,Masters,Climate,4,0,French,NLP,Slot 5
+U00139,ta,Canada,UTC-5,Female,Masters,AI,7,0,Spanish,Climate,Slot 4
+U00140,student,Germany,UTC+1,Female,UG,Neuro,8,0,Hindi,Time Series,Slot 4
+U00141,student,Canada,UTC-5,Non-binary,PhD,AI,7,1,Hindi,Neural Coding,Slot 2
+U00142,instructor,UK,UTC+0,Male,Masters,CS,3,0,Hindi,Neural Coding,Slot 2
+U00143,student,Canada,UTC-5,Non-binary,UG,CS,7,1,Hindi,NLP,Slot 3
+U00144,student,Canada,UTC-5,Non-binary,UG,Neuro,0,0,Hindi,NLP,Slot 4
+U00145,student,India,UTC+5:30,Non-binary,UG,AI,2,0,French,CV,Slot 1
+U00146,ta,Canada,UTC-5,Male,PhD,CS,3,1,Hindi,CV,Slot 3
+U00147,student,India,UTC+5:30,Male,Masters,CS,2,0,French,NLP,Slot 3
+U00148,student,Canada,UTC-5,Male,UG,Climate,8,1,Spanish,CV,Slot 2
+U00149,student,USA,UTC-5,Non-binary,Masters,AI,3,0,Hindi,Climate,Slot 2
+U00150,student,Germany,UTC+1,Female,PhD,Neuro,4,0,Hindi,NLP,Slot 1
+U00151,student,Japan,UTC+9,Female,PhD,AI,3,0,English,RL,Slot 3
+U00152,student,Kenya,UTC+3,Non-binary,Masters,Neuro,6,0,Hindi,NLP,Slot 2
+U00153,student,Canada,UTC-5,Female,UG,AI,4,0,Hindi,Climate,Slot 3
+U00154,student,Kenya,UTC+3,Non-binary,Masters,CS,9,0,Hindi,NLP,Slot 1
+U00155,ta,India,UTC+5:30,Non-binary,PhD,Climate,1,1,French,CV,Slot 5
+U00156,student,UK,UTC+0,Male,PhD,AI,9,0,French,Time Series,Slot 2
+U00157,student,USA,UTC-5,Non-binary,PhD,CS,6,0,French,RL,Slot 1
+U00158,student,UK,UTC+0,Non-binary,UG,CS,8,1,French,NLP,Slot 4
+U00159,student,Brazil,UTC-3,Male,UG,Neuro,4,0,French,CV,Slot 3
+U00160,student,Japan,UTC+9,Female,PhD,Neuro,7,0,English,RL,Slot 1
+U00161,student,Brazil,UTC-3,Male,PhD,Climate,3,0,French,Neural Coding,Slot 4
+U00162,ta,India,UTC+5:30,Female,PhD,CS,3,0,Hindi,NLP,Slot 3
+U00163,student,Canada,UTC-5,Non-binary,Masters,CS,2,0,Spanish,RL,Slot 1
+U00164,student,UK,UTC+0,Non-binary,UG,CS,9,1,Hindi,Time Series,Slot 3
+U00165,student,Canada,UTC-5,Male,UG,CS,2,0,English,NLP,Slot 4
+U00166,student,USA,UTC-5,Male,UG,AI,9,0,Hindi,RL,Slot 3
+U00167,student,Canada,UTC-5,Non-binary,PhD,AI,8,0,Hindi,Time Series,Slot 1
+U00168,student,Japan,UTC+9,Non-binary,Masters,Neuro,8,0,English,Time Series,Slot 3
+U00169,student,Germany,UTC+1,Female,Masters,AI,7,0,French,Neural Coding,Slot 3
+U00170,student,UK,UTC+0,Male,Masters,Neuro,9,0,Spanish,Neural Coding,Slot 4
+U00171,instructor,USA,UTC-5,Non-binary,UG,CS,4,0,English,NLP,Slot 2
+U00172,ta,Brazil,UTC-3,Non-binary,UG,CS,4,0,Spanish,Climate,Slot 2
+U00173,student,Germany,UTC+1,Female,UG,CS,8,0,French,CV,Slot 2
+U00174,student,Kenya,UTC+3,Male,UG,CS,0,0,Spanish,Neural Coding,Slot 3
+U00175,student,Germany,UTC+1,Non-binary,Masters,CS,6,0,Spanish,NLP,Slot 1
+U00176,student,Brazil,UTC-3,Non-binary,Masters,CS,7,0,English,RL,Slot 4
+U00177,student,UK,UTC+0,Non-binary,PhD,CS,4,0,Hindi,Climate,Slot 2
+U00178,student,India,UTC+5:30,Non-binary,PhD,Neuro,9,0,Hindi,Time Series,Slot 1
+U00179,student,India,UTC+5:30,Female,Masters,Climate,4,1,English,RL,Slot 4
+U00180,instructor,USA,UTC-5,Male,Masters,AI,5,0,English,CV,Slot 3
+U00181,student,UK,UTC+0,Female,PhD,Neuro,4,1,Hindi,Climate,Slot 5
+U00182,student,Canada,UTC-5,Male,PhD,CS,2,1,Spanish,RL,Slot 4
+U00183,ta,Germany,UTC+1,Female,Masters,Climate,4,0,Hindi,RL,Slot 1
+U00184,student,UK,UTC+0,Female,Masters,Neuro,7,1,French,CV,Slot 4
+U00185,student,USA,UTC-5,Male,UG,CS,4,0,Hindi,Neural Coding,Slot 3
+U00186,student,Brazil,UTC-3,Non-binary,UG,Neuro,0,0,English,RL,Slot 3
+U00187,instructor,Canada,UTC-5,Non-binary,UG,Neuro,4,0,French,NLP,Slot 1
+U00188,student,Germany,UTC+1,Male,PhD,Climate,0,1,Spanish,Neural Coding,Slot 3
+U00189,student,UK,UTC+0,Male,Masters,AI,2,0,Hindi,Climate,Slot 5
+U00190,student,India,UTC+5:30,Non-binary,PhD,Neuro,6,1,English,CV,Slot 3
+U00191,student,Kenya,UTC+3,Female,Masters,CS,4,1,Spanish,CV,Slot 5
+U00192,student,Canada,UTC-5,Male,UG,CS,4,0,English,Time Series,Slot 5
+U00193,student,Germany,UTC+1,Female,Masters,Climate,2,0,French,CV,Slot 3
+U00194,student,Kenya,UTC+3,Non-binary,Masters,CS,0,1,English,CV,Slot 2
+U00195,student,India,UTC+5:30,Non-binary,UG,Neuro,0,0,Hindi,Time Series,Slot 4
+U00196,student,Japan,UTC+9,Non-binary,Masters,Climate,7,0,French,CV,Slot 5
+U00197,student,USA,UTC-5,Female,Masters,CS,5,0,French,Time Series,Slot 5
+U00198,student,Japan,UTC+9,Non-binary,PhD,Neuro,0,0,English,CV,Slot 4
+U00199,student,India,UTC+5:30,Male,UG,Neuro,8,0,Spanish,CV,Slot 3
+U00200,student,Kenya,UTC+3,Female,UG,CS,6,0,Hindi,Time Series,Slot 4
+U00201,student,Brazil,UTC-3,Male,Masters,AI,1,1,French,Neural Coding,Slot 4
+U00202,ta,India,UTC+5:30,Female,UG,Climate,1,0,English,NLP,Slot 5
+U00203,student,Canada,UTC-5,Non-binary,Masters,Climate,2,1,French,Neural Coding,Slot 4
+U00204,student,India,UTC+5:30,Female,UG,Climate,5,0,French,Neural Coding,Slot 4
+U00205,ta,USA,UTC-5,Male,Masters,Climate,6,0,English,RL,Slot 3
+U00206,student,UK,UTC+0,Male,Masters,AI,3,0,English,Climate,Slot 1
+U00207,student,Germany,UTC+1,Female,Masters,AI,0,0,Spanish,Neural Coding,Slot 2
+U00208,student,Kenya,UTC+3,Male,UG,AI,1,0,English,CV,Slot 4
+U00209,student,Japan,UTC+9,Non-binary,PhD,Climate,2,0,French,Time Series,Slot 3
+U00210,student,Brazil,UTC-3,Female,UG,Climate,5,0,Hindi,Time Series,Slot 3
+U00211,student,Kenya,UTC+3,Non-binary,UG,Neuro,3,0,English,NLP,Slot 4
+U00212,ta,Japan,UTC+9,Male,UG,Neuro,2,0,French,Neural Coding,Slot 1
+U00213,instructor,Canada,UTC-5,Female,PhD,CS,9,0,Hindi,Climate,Slot 2
+U00214,student,UK,UTC+0,Non-binary,Masters,AI,1,0,English,RL,Slot 1
+U00215,student,UK,UTC+0,Non-binary,UG,AI,4,0,English,CV,Slot 4
+U00216,student,Japan,UTC+9,Non-binary,PhD,AI,9,1,French,NLP,Slot 3
+U00217,student,Canada,UTC-5,Female,Masters,CS,9,0,French,Neural Coding,Slot 3
+U00218,student,USA,UTC-5,Non-binary,PhD,Climate,8,0,French,NLP,Slot 5
+U00219,student,Brazil,UTC-3,Female,UG,AI,7,1,French,NLP,Slot 4
+U00220,ta,Brazil,UTC-3,Non-binary,PhD,CS,0,0,French,Climate,Slot 4
+U00221,student,UK,UTC+0,Male,PhD,CS,0,0,Hindi,Climate,Slot 3
+U00222,instructor,India,UTC+5:30,Female,Masters,AI,7,0,Spanish,NLP,Slot 4
+U00223,student,Germany,UTC+1,Male,UG,AI,6,0,English,NLP,Slot 1
+U00224,student,India,UTC+5:30,Non-binary,Masters,AI,9,0,Hindi,CV,Slot 2
+U00225,student,Brazil,UTC-3,Non-binary,PhD,AI,6,0,Hindi,Neural Coding,Slot 4
+U00226,student,UK,UTC+0,Non-binary,PhD,AI,1,0,Hindi,Climate,Slot 3
+U00227,student,Japan,UTC+9,Male,PhD,AI,8,0,French,RL,Slot 2
+U00228,student,UK,UTC+0,Non-binary,PhD,Climate,6,0,Hindi,NLP,Slot 4
+U00229,student,Canada,UTC-5,Male,UG,AI,9,0,French,Neural Coding,Slot 4
+U00230,student,UK,UTC+0,Non-binary,UG,CS,3,0,French,Neural Coding,Slot 2
+U00231,student,Kenya,UTC+3,Female,PhD,AI,8,0,Hindi,Neural Coding,Slot 2
+U00232,student,Japan,UTC+9,Female,UG,Climate,5,0,English,RL,Slot 5
+U00233,student,UK,UTC+0,Male,Masters,CS,0,0,French,CV,Slot 1
+U00234,student,UK,UTC+0,Male,PhD,Neuro,4,0,Spanish,CV,Slot 1
+U00235,student,Kenya,UTC+3,Female,PhD,AI,1,0,Hindi,RL,Slot 5
+U00236,student,India,UTC+5:30,Male,UG,Neuro,5,0,Spanish,CV,Slot 5
+U00237,student,Canada,UTC-5,Male,Masters,AI,5,0,French,Neural Coding,Slot 1
+U00238,student,Germany,UTC+1,Female,PhD,Climate,3,1,English,Neural Coding,Slot 4
+U00239,student,India,UTC+5:30,Non-binary,PhD,AI,7,1,Spanish,NLP,Slot 4
+U00240,student,India,UTC+5:30,Non-binary,Masters,AI,2,0,Hindi,CV,Slot 1
+U00241,student,UK,UTC+0,Male,PhD,CS,7,0,Hindi,RL,Slot 1
+U00242,student,Canada,UTC-5,Female,Masters,CS,3,0,French,Neural Coding,Slot 3
+U00243,instructor,Germany,UTC+1,Non-binary,PhD,CS,7,0,French,CV,Slot 1
+U00244,student,UK,UTC+0,Non-binary,Masters,AI,1,0,Hindi,Time Series,Slot 4
+U00245,student,Brazil,UTC-3,Male,UG,Climate,2,1,English,NLP,Slot 2
+U00246,student,India,UTC+5:30,Male,UG,Neuro,9,0,French,Climate,Slot 4
+U00247,student,Japan,UTC+9,Female,UG,AI,0,0,French,NLP,Slot 1
+U00248,student,UK,UTC+0,Female,UG,Neuro,0,0,Hindi,RL,Slot 4
+U00249,student,Canada,UTC-5,Female,UG,Climate,4,0,Hindi,NLP,Slot 5
+U00250,ta,Kenya,UTC+3,Male,PhD,Climate,2,0,English,RL,Slot 5
+U00251,student,Brazil,UTC-3,Non-binary,Masters,Neuro,9,0,English,Neural Coding,Slot 3
+U00252,student,Kenya,UTC+3,Female,Masters,Climate,1,0,Spanish,Time Series,Slot 4
+U00253,student,UK,UTC+0,Female,UG,Neuro,0,0,Hindi,NLP,Slot 1
+U00254,student,USA,UTC-5,Non-binary,PhD,Climate,8,0,French,Climate,Slot 2
+U00255,student,India,UTC+5:30,Male,PhD,Climate,6,0,English,CV,Slot 1
+U00256,student,Germany,UTC+1,Non-binary,Masters,Neuro,4,1,Hindi,Climate,Slot 1
+U00257,instructor,Brazil,UTC-3,Non-binary,Masters,Neuro,4,0,French,RL,Slot 1
+U00258,ta,Brazil,UTC-3,Non-binary,Masters,Climate,2,0,French,Time Series,Slot 3
+U00259,student,Germany,UTC+1,Male,UG,AI,5,0,Hindi,Climate,Slot 4
+U00260,student,USA,UTC-5,Female,Masters,Climate,8,0,Spanish,Climate,Slot 3
+U00261,student,Japan,UTC+9,Male,UG,AI,2,0,English,RL,Slot 2
+U00262,student,Japan,UTC+9,Male,PhD,Neuro,9,1,French,Time Series,Slot 1
+U00263,student,Kenya,UTC+3,Female,UG,AI,9,0,French,Climate,Slot 2
+U00264,student,USA,UTC-5,Male,UG,AI,6,0,Hindi,Neural Coding,Slot 3
+U00265,ta,UK,UTC+0,Female,PhD,AI,5,0,English,Neural Coding,Slot 3
+U00266,student,Canada,UTC-5,Non-binary,PhD,Climate,0,0,Hindi,RL,Slot 5
+U00267,ta,USA,UTC-5,Male,Masters,CS,6,0,Hindi,RL,Slot 5
+U00268,student,UK,UTC+0,Male,PhD,AI,7,0,Spanish,RL,Slot 5
+U00269,student,India,UTC+5:30,Male,PhD,AI,5,0,French,CV,Slot 2
+U00270,student,UK,UTC+0,Non-binary,UG,Neuro,9,0,French,Neural Coding,Slot 3
+U00271,student,Germany,UTC+1,Non-binary,PhD,Neuro,0,0,Spanish,Time Series,Slot 3
+U00272,ta,USA,UTC-5,Non-binary,PhD,AI,3,1,Spanish,CV,Slot 5
+U00273,student,UK,UTC+0,Non-binary,UG,CS,4,0,English,Neural Coding,Slot 5
+U00274,student,Kenya,UTC+3,Non-binary,UG,Climate,3,0,English,RL,Slot 5
+U00275,student,Kenya,UTC+3,Non-binary,Masters,Climate,9,0,Spanish,Time Series,Slot 4
+U00276,student,Kenya,UTC+3,Female,UG,CS,3,0,Spanish,RL,Slot 4
+U00277,student,Japan,UTC+9,Female,UG,Neuro,7,0,Spanish,NLP,Slot 3
+U00278,student,UK,UTC+0,Female,UG,Neuro,1,0,English,NLP,Slot 2
+U00279,student,Japan,UTC+9,Male,Masters,Climate,3,0,Spanish,CV,Slot 1
+U00280,student,India,UTC+5:30,Female,Masters,Climate,4,1,Spanish,CV,Slot 3
+U00281,instructor,UK,UTC+0,Male,UG,Climate,7,0,Hindi,RL,Slot 3
+U00282,student,Japan,UTC+9,Male,UG,Climate,9,1,Hindi,CV,Slot 2
+U00283,student,UK,UTC+0,Male,UG,Neuro,7,0,Hindi,Climate,Slot 4
+U00284,student,Kenya,UTC+3,Non-binary,UG,CS,7,1,Hindi,CV,Slot 3
+U00285,ta,UK,UTC+0,Female,Masters,CS,3,1,Hindi,Neural Coding,Slot 5
+U00286,student,Germany,UTC+1,Female,PhD,Neuro,4,0,English,RL,Slot 5
+U00287,student,Japan,UTC+9,Non-binary,Masters,CS,9,0,Spanish,Neural Coding,Slot 4
+U00288,student,UK,UTC+0,Female,PhD,Neuro,7,1,Spanish,CV,Slot 5
+U00289,ta,Canada,UTC-5,Non-binary,UG,CS,0,0,English,CV,Slot 3
+U00290,instructor,Japan,UTC+9,Non-binary,Masters,AI,3,0,Spanish,NLP,Slot 5
+U00291,ta,UK,UTC+0,Male,Masters,Neuro,5,0,French,Climate,Slot 5
+U00292,student,Japan,UTC+9,Non-binary,PhD,Neuro,4,0,Hindi,Neural Coding,Slot 3
+U00293,student,UK,UTC+0,Non-binary,UG,Climate,9,1,French,Time Series,Slot 1
+U00294,student,Japan,UTC+9,Female,PhD,AI,8,0,English,Climate,Slot 4
+U00295,student,Brazil,UTC-3,Non-binary,PhD,Climate,9,1,Spanish,Time Series,Slot 2
+U00296,student,India,UTC+5:30,Non-binary,PhD,CS,1,0,Spanish,Neural Coding,Slot 4
+U00297,ta,UK,UTC+0,Female,UG,Climate,2,0,Spanish,RL,Slot 5
+U00298,student,Japan,UTC+9,Non-binary,PhD,CS,3,0,Spanish,Climate,Slot 2
+U00299,ta,UK,UTC+0,Non-binary,Masters,Climate,0,0,French,CV,Slot 4
+U00300,student,UK,UTC+0,Non-binary,Masters,Neuro,9,0,Hindi,CV,Slot 2
+U00301,student,Kenya,UTC+3,Non-binary,Masters,AI,6,1,French,NLP,Slot 2
+U00302,student,Japan,UTC+9,Female,Masters,Neuro,3,0,French,NLP,Slot 1
+U00303,student,Canada,UTC-5,Female,Masters,AI,7,0,French,Neural Coding,Slot 3
+U00304,student,USA,UTC-5,Female,Masters,Neuro,6,0,Hindi,CV,Slot 2
+U00305,student,Kenya,UTC+3,Non-binary,PhD,Neuro,0,0,Spanish,Neural Coding,Slot 5
+U00306,student,Germany,UTC+1,Male,UG,AI,7,0,Spanish,Neural Coding,Slot 1
+U00307,student,Canada,UTC-5,Female,PhD,Climate,2,0,English,Time Series,Slot 2
+U00308,student,India,UTC+5:30,Non-binary,UG,Climate,0,0,Hindi,RL,Slot 2
+U00309,student,Kenya,UTC+3,Female,Masters,CS,3,0,English,Time Series,Slot 5
+U00310,ta,Germany,UTC+1,Non-binary,PhD,CS,6,0,Spanish,RL,Slot 2
+U00311,student,India,UTC+5:30,Female,Masters,AI,2,0,French,Neural Coding,Slot 1
+U00312,student,Kenya,UTC+3,Non-binary,PhD,CS,6,1,French,NLP,Slot 4
+U00313,student,Japan,UTC+9,Male,PhD,Climate,6,0,French,CV,Slot 1
+U00314,student,UK,UTC+0,Male,PhD,Climate,6,0,French,Time Series,Slot 2
+U00315,student,India,UTC+5:30,Non-binary,Masters,Neuro,7,0,Spanish,CV,Slot 5
+U00316,student,Canada,UTC-5,Female,PhD,Neuro,2,1,English,RL,Slot 1
+U00317,student,Brazil,UTC-3,Male,Masters,Neuro,7,0,Spanish,Neural Coding,Slot 3
+U00318,student,Canada,UTC-5,Male,Masters,Neuro,7,1,French,NLP,Slot 5
+U00319,instructor,India,UTC+5:30,Female,PhD,Neuro,3,0,Spanish,Neural Coding,Slot 1
+U00320,student,Japan,UTC+9,Female,UG,Climate,6,1,French,Time Series,Slot 1
+U00321,student,Kenya,UTC+3,Female,PhD,AI,6,0,Spanish,CV,Slot 4
+U00322,student,Brazil,UTC-3,Female,PhD,Neuro,2,0,Hindi,Time Series,Slot 5
+U00323,student,Japan,UTC+9,Non-binary,PhD,AI,1,1,Spanish,Time Series,Slot 5
+U00324,student,USA,UTC-5,Non-binary,Masters,Neuro,9,1,English,Climate,Slot 1
+U00325,student,India,UTC+5:30,Non-binary,PhD,AI,6,0,Spanish,CV,Slot 3
+U00326,student,Japan,UTC+9,Male,PhD,AI,5,0,Hindi,Neural Coding,Slot 5
+U00327,student,Japan,UTC+9,Male,Masters,AI,4,0,Hindi,RL,Slot 5
+U00328,ta,India,UTC+5:30,Non-binary,Masters,Neuro,5,0,English,RL,Slot 3
+U00329,student,India,UTC+5:30,Non-binary,UG,CS,7,1,English,RL,Slot 3
+U00330,student,USA,UTC-5,Non-binary,UG,CS,0,0,Hindi,Neural Coding,Slot 3
+U00331,student,Canada,UTC-5,Male,UG,Climate,8,0,French,RL,Slot 4
+U00332,student,Canada,UTC-5,Female,UG,AI,6,0,French,Neural Coding,Slot 2
+U00333,student,Canada,UTC-5,Non-binary,UG,AI,3,0,English,Neural Coding,Slot 3
+U00334,ta,Japan,UTC+9,Non-binary,PhD,Climate,1,0,Hindi,CV,Slot 2
+U00335,student,Japan,UTC+9,Female,UG,Neuro,1,0,Spanish,Time Series,Slot 1
+U00336,student,India,UTC+5:30,Non-binary,Masters,CS,8,0,Spanish,CV,Slot 1
+U00337,student,USA,UTC-5,Non-binary,UG,Climate,8,0,English,CV,Slot 1
+U00338,student,Canada,UTC-5,Female,UG,AI,4,0,English,CV,Slot 5
+U00339,student,Kenya,UTC+3,Male,PhD,Neuro,8,0,French,CV,Slot 3
+U00340,student,Brazil,UTC-3,Non-binary,PhD,AI,1,0,Hindi,NLP,Slot 3
+U00341,student,India,UTC+5:30,Non-binary,PhD,AI,6,0,Hindi,Climate,Slot 4
+U00342,student,India,UTC+5:30,Female,PhD,Climate,4,0,French,Time Series,Slot 4
+U00343,student,Canada,UTC-5,Male,Masters,Climate,1,0,Spanish,Climate,Slot 4
+U00344,student,Germany,UTC+1,Male,Masters,AI,2,0,Hindi,Neural Coding,Slot 5
+U00345,student,Canada,UTC-5,Female,PhD,AI,4,1,Hindi,CV,Slot 3
+U00346,student,Germany,UTC+1,Female,PhD,CS,3,0,Hindi,NLP,Slot 1
+U00347,student,Germany,UTC+1,Male,Masters,Climate,2,1,English,Neural Coding,Slot 2
+U00348,student,Germany,UTC+1,Female,UG,Neuro,7,1,French,Neural Coding,Slot 2
+U00349,student,Germany,UTC+1,Non-binary,UG,Climate,0,0,Spanish,Time Series,Slot 5
+U00350,student,Germany,UTC+1,Female,UG,Neuro,2,0,French,RL,Slot 4
+U00351,student,UK,UTC+0,Female,Masters,Neuro,1,0,Hindi,RL,Slot 1
+U00352,student,Japan,UTC+9,Female,UG,Neuro,8,0,French,RL,Slot 1
+U00353,student,Germany,UTC+1,Non-binary,UG,CS,8,0,French,Climate,Slot 5
+U00354,student,Canada,UTC-5,Female,UG,AI,8,0,French,CV,Slot 4
+U00355,student,Germany,UTC+1,Female,PhD,Neuro,4,0,French,RL,Slot 4
+U00356,instructor,Japan,UTC+9,Male,PhD,Neuro,5,0,Spanish,CV,Slot 5
+U00357,student,Japan,UTC+9,Male,PhD,CS,0,0,English,Neural Coding,Slot 1
+U00358,instructor,India,UTC+5:30,Female,UG,AI,6,0,English,Time Series,Slot 2
+U00359,student,India,UTC+5:30,Male,PhD,Climate,7,0,French,Neural Coding,Slot 5
+U00360,student,Japan,UTC+9,Non-binary,Masters,CS,0,0,English,Climate,Slot 5
+U00361,student,Canada,UTC-5,Male,UG,Neuro,5,1,French,Neural Coding,Slot 5
+U00362,ta,Canada,UTC-5,Male,UG,CS,9,0,Spanish,CV,Slot 2
+U00363,student,Kenya,UTC+3,Female,Masters,Climate,9,0,English,NLP,Slot 4
+U00364,instructor,Japan,UTC+9,Non-binary,UG,AI,9,0,French,Time Series,Slot 1
+U00365,ta,India,UTC+5:30,Male,Masters,Climate,4,0,Hindi,Climate,Slot 4
+U00366,student,India,UTC+5:30,Non-binary,UG,AI,7,1,English,RL,Slot 4
+U00367,ta,UK,UTC+0,Non-binary,UG,CS,1,0,Spanish,CV,Slot 5
+U00368,student,Japan,UTC+9,Female,UG,CS,2,0,French,Climate,Slot 5
+U00369,student,India,UTC+5:30,Male,Masters,CS,0,0,Spanish,Climate,Slot 2
+U00370,student,Canada,UTC-5,Male,Masters,AI,1,1,Spanish,Climate,Slot 4
+U00371,student,UK,UTC+0,Female,PhD,AI,9,0,English,Climate,Slot 3
+U00372,student,India,UTC+5:30,Male,Masters,AI,7,0,English,NLP,Slot 5
+U00373,student,Canada,UTC-5,Female,UG,Neuro,8,0,Hindi,RL,Slot 2
+U00374,student,UK,UTC+0,Non-binary,Masters,Climate,9,1,Spanish,Time Series,Slot 5
+U00375,student,Canada,UTC-5,Male,PhD,Neuro,2,1,Spanish,Time Series,Slot 1
+U00376,student,USA,UTC-5,Female,UG,Climate,6,0,Spanish,Time Series,Slot 4
+U00377,student,UK,UTC+0,Female,UG,CS,2,0,English,NLP,Slot 4
+U00378,student,UK,UTC+0,Female,UG,AI,0,0,English,CV,Slot 4
+U00379,student,Japan,UTC+9,Non-binary,PhD,Climate,8,0,English,Neural Coding,Slot 1
+U00380,student,UK,UTC+0,Non-binary,UG,Neuro,8,0,Hindi,Neural Coding,Slot 3
+U00381,student,Canada,UTC-5,Female,UG,AI,6,0,Spanish,Time Series,Slot 4
+U00382,student,Brazil,UTC-3,Male,Masters,Neuro,0,0,French,RL,Slot 2
+U00383,student,USA,UTC-5,Male,Masters,Neuro,1,0,Hindi,NLP,Slot 4
+U00384,student,USA,UTC-5,Female,Masters,AI,8,0,Hindi,Climate,Slot 5
+U00385,ta,Germany,UTC+1,Female,UG,AI,8,0,French,Neural Coding,Slot 4
+U00386,student,UK,UTC+0,Non-binary,Masters,Neuro,3,0,Hindi,NLP,Slot 4
+U00387,ta,Brazil,UTC-3,Female,Masters,AI,4,0,Hindi,NLP,Slot 2
+U00388,student,Canada,UTC-5,Female,Masters,Climate,7,1,Spanish,NLP,Slot 4
+U00389,student,Kenya,UTC+3,Female,Masters,CS,1,0,Spanish,Climate,Slot 5
+U00390,instructor,Brazil,UTC-3,Non-binary,PhD,CS,7,1,Hindi,Time Series,Slot 2
+U00391,student,Japan,UTC+9,Female,PhD,CS,4,1,Hindi,Time Series,Slot 4
+U00392,student,Brazil,UTC-3,Non-binary,Masters,AI,1,0,French,Time Series,Slot 2
+U00393,student,Canada,UTC-5,Female,UG,Climate,9,0,Hindi,Climate,Slot 4
+U00394,student,Canada,UTC-5,Non-binary,UG,Neuro,4,0,English,Neural Coding,Slot 2
+U00395,student,UK,UTC+0,Male,PhD,CS,8,1,Hindi,NLP,Slot 4
+U00396,instructor,USA,UTC-5,Male,UG,Neuro,9,0,Spanish,Climate,Slot 5
+U00397,student,Germany,UTC+1,Female,Masters,Climate,0,0,Hindi,Time Series,Slot 5
+U00398,student,Brazil,UTC-3,Female,UG,Climate,5,0,English,NLP,Slot 4
+U00399,student,USA,UTC-5,Male,PhD,AI,8,0,French,NLP,Slot 3
+U00400,student,Japan,UTC+9,Male,PhD,Climate,1,0,French,RL,Slot 1
+U00401,student,Japan,UTC+9,Non-binary,PhD,Climate,8,0,French,Neural Coding,Slot 3
+U00402,ta,India,UTC+5:30,Non-binary,UG,CS,9,1,French,Time Series,Slot 1
+U00403,student,Brazil,UTC-3,Non-binary,UG,AI,4,0,Spanish,NLP,Slot 5
+U00404,student,Canada,UTC-5,Female,UG,Climate,5,0,Spanish,CV,Slot 4
+U00405,student,Canada,UTC-5,Male,PhD,AI,9,0,Hindi,Climate,Slot 4
+U00406,instructor,Canada,UTC-5,Male,PhD,AI,4,1,Spanish,NLP,Slot 1
+U00407,student,USA,UTC-5,Non-binary,UG,Neuro,2,1,French,CV,Slot 4
+U00408,student,USA,UTC-5,Female,PhD,Climate,1,0,French,Climate,Slot 4
+U00409,ta,Canada,UTC-5,Non-binary,UG,Neuro,0,1,French,RL,Slot 5
+U00410,student,Brazil,UTC-3,Non-binary,PhD,Neuro,7,0,English,Time Series,Slot 2
+U00411,student,UK,UTC+0,Male,UG,Neuro,8,0,English,CV,Slot 3
+U00412,student,Brazil,UTC-3,Non-binary,Masters,Climate,4,0,Spanish,Climate,Slot 4
+U00413,student,Canada,UTC-5,Male,Masters,AI,5,0,Spanish,RL,Slot 3
+U00414,ta,Brazil,UTC-3,Male,Masters,Climate,9,0,English,NLP,Slot 1
+U00415,ta,Japan,UTC+9,Male,UG,Climate,9,0,Hindi,RL,Slot 4
+U00416,student,Canada,UTC-5,Non-binary,Masters,Climate,6,0,Spanish,Neural Coding,Slot 5
+U00417,student,India,UTC+5:30,Male,Masters,CS,6,0,French,CV,Slot 5
+U00418,student,Kenya,UTC+3,Male,Masters,Climate,0,0,English,Climate,Slot 1
+U00419,student,Kenya,UTC+3,Non-binary,Masters,CS,1,0,Hindi,Climate,Slot 2
+U00420,student,Canada,UTC-5,Male,PhD,AI,2,0,French,Neural Coding,Slot 4
+U00421,student,Kenya,UTC+3,Female,UG,Climate,6,0,English,CV,Slot 2
+U00422,instructor,UK,UTC+0,Non-binary,PhD,Climate,4,0,Spanish,Climate,Slot 2
+U00423,ta,Germany,UTC+1,Male,UG,Neuro,3,0,French,Climate,Slot 5
+U00424,student,Brazil,UTC-3,Female,PhD,Neuro,0,0,French,Climate,Slot 3
+U00425,student,USA,UTC-5,Male,Masters,CS,5,0,French,Time Series,Slot 2
+U00426,student,Brazil,UTC-3,Male,UG,Neuro,1,1,Spanish,Time Series,Slot 4
+U00427,instructor,Japan,UTC+9,Male,PhD,Neuro,3,0,Hindi,RL,Slot 4
+U00428,student,USA,UTC-5,Non-binary,UG,Climate,6,0,French,Time Series,Slot 3
+U00429,student,Japan,UTC+9,Female,Masters,CS,2,0,English,Time Series,Slot 4
+U00430,student,UK,UTC+0,Male,PhD,Climate,1,0,Spanish,RL,Slot 2
+U00431,instructor,Japan,UTC+9,Female,Masters,Neuro,0,0,French,Climate,Slot 5
+U00432,ta,Brazil,UTC-3,Non-binary,Masters,Neuro,6,1,English,Neural Coding,Slot 1
+U00433,student,Japan,UTC+9,Male,UG,AI,1,0,Hindi,RL,Slot 1
+U00434,student,Canada,UTC-5,Male,PhD,AI,2,1,French,CV,Slot 3
+U00435,student,USA,UTC-5,Non-binary,Masters,Neuro,4,1,English,NLP,Slot 2
+U00436,ta,India,UTC+5:30,Female,PhD,Neuro,3,0,Spanish,RL,Slot 1
+U00437,student,USA,UTC-5,Male,UG,Climate,2,0,English,CV,Slot 5
+U00438,student,Germany,UTC+1,Non-binary,PhD,Climate,5,0,English,Neural Coding,Slot 3
+U00439,student,USA,UTC-5,Female,PhD,AI,0,0,Hindi,Neural Coding,Slot 2
+U00440,student,Canada,UTC-5,Male,PhD,CS,7,0,English,NLP,Slot 3
+U00441,student,Kenya,UTC+3,Male,Masters,AI,4,0,Spanish,Neural Coding,Slot 5
+U00442,student,India,UTC+5:30,Non-binary,PhD,AI,1,0,Hindi,NLP,Slot 2
+U00443,student,Brazil,UTC-3,Female,PhD,Climate,4,1,Spanish,Neural Coding,Slot 1
+U00444,instructor,Brazil,UTC-3,Male,PhD,Climate,3,0,French,RL,Slot 3
+U00445,student,Brazil,UTC-3,Male,Masters,CS,6,0,Spanish,Climate,Slot 5
+U00446,student,Kenya,UTC+3,Non-binary,UG,Neuro,3,0,Spanish,Climate,Slot 5
+U00447,student,Germany,UTC+1,Non-binary,Masters,Neuro,5,0,English,CV,Slot 4
+U00448,student,Canada,UTC-5,Male,UG,Climate,7,0,English,Climate,Slot 1
+U00449,instructor,UK,UTC+0,Female,UG,Climate,0,0,Hindi,NLP,Slot 5
+U00450,student,Brazil,UTC-3,Female,UG,CS,1,0,English,Neural Coding,Slot 3
+U00451,student,Germany,UTC+1,Male,UG,Climate,8,1,French,Time Series,Slot 5
+U00452,student,Canada,UTC-5,Female,PhD,Climate,7,0,English,Time Series,Slot 5
+U00453,student,Brazil,UTC-3,Female,UG,Neuro,8,0,English,Climate,Slot 2
+U00454,instructor,Brazil,UTC-3,Non-binary,Masters,Climate,5,0,English,NLP,Slot 4
+U00455,student,Germany,UTC+1,Male,UG,CS,9,0,Hindi,Neural Coding,Slot 4
+U00456,ta,India,UTC+5:30,Female,PhD,AI,0,0,English,Neural Coding,Slot 2
+U00457,student,India,UTC+5:30,Male,Masters,Neuro,0,1,French,CV,Slot 3
+U00458,student,Brazil,UTC-3,Non-binary,Masters,CS,6,0,English,NLP,Slot 4
+U00459,student,Kenya,UTC+3,Non-binary,UG,Neuro,9,1,English,RL,Slot 4
+U00460,student,UK,UTC+0,Male,Masters,AI,6,0,French,CV,Slot 3
+U00461,instructor,USA,UTC-5,Non-binary,PhD,CS,2,1,Spanish,Time Series,Slot 5
+U00462,student,India,UTC+5:30,Male,UG,AI,8,0,English,RL,Slot 3
+U00463,student,Canada,UTC-5,Male,UG,CS,1,1,Hindi,CV,Slot 3
+U00464,ta,Germany,UTC+1,Female,PhD,Neuro,3,0,French,Neural Coding,Slot 5
+U00465,student,UK,UTC+0,Male,PhD,CS,6,0,Spanish,CV,Slot 5
+U00466,student,India,UTC+5:30,Female,UG,Climate,5,1,French,NLP,Slot 3
+U00467,student,USA,UTC-5,Non-binary,Masters,CS,2,0,French,CV,Slot 3
+U00468,student,Kenya,UTC+3,Non-binary,PhD,AI,1,0,Hindi,NLP,Slot 5
+U00469,student,Japan,UTC+9,Male,PhD,AI,8,1,Spanish,Neural Coding,Slot 4
+U00470,student,India,UTC+5:30,Male,PhD,Neuro,6,0,English,NLP,Slot 1
+U00471,student,Canada,UTC-5,Non-binary,PhD,Neuro,6,0,English,CV,Slot 5
+U00472,student,Germany,UTC+1,Female,Masters,CS,1,0,Spanish,Time Series,Slot 3
+U00473,student,USA,UTC-5,Male,UG,Climate,4,1,French,RL,Slot 1
+U00474,instructor,USA,UTC-5,Non-binary,UG,Climate,2,0,English,Climate,Slot 5
+U00475,student,India,UTC+5:30,Female,PhD,AI,5,0,Spanish,NLP,Slot 3
+U00476,student,UK,UTC+0,Female,PhD,Neuro,0,1,French,RL,Slot 3
+U00477,student,Germany,UTC+1,Male,UG,AI,7,0,English,CV,Slot 1
+U00478,student,Brazil,UTC-3,Female,Masters,Neuro,3,0,Hindi,Neural Coding,Slot 5
+U00479,student,UK,UTC+0,Male,Masters,Neuro,2,0,Hindi,NLP,Slot 1
+U00480,student,USA,UTC-5,Male,PhD,Neuro,4,0,English,CV,Slot 3
+U00481,student,Brazil,UTC-3,Male,PhD,AI,1,0,French,RL,Slot 5
+U00482,student,India,UTC+5:30,Non-binary,Masters,Neuro,2,0,Spanish,Neural Coding,Slot 4
+U00483,ta,Japan,UTC+9,Non-binary,PhD,AI,2,0,English,RL,Slot 1
+U00484,student,Brazil,UTC-3,Male,UG,CS,0,0,Spanish,CV,Slot 2
+U00485,student,Canada,UTC-5,Female,PhD,CS,6,0,French,Neural Coding,Slot 1
+U00486,student,USA,UTC-5,Male,PhD,Climate,1,0,Spanish,Neural Coding,Slot 3
+U00487,ta,USA,UTC-5,Male,Masters,CS,8,0,Spanish,Climate,Slot 4
+U00488,ta,Canada,UTC-5,Female,UG,Climate,7,0,Hindi,CV,Slot 3
+U00489,student,Germany,UTC+1,Male,Masters,Neuro,6,0,Hindi,CV,Slot 1
+U00490,student,Germany,UTC+1,Non-binary,Masters,Climate,8,0,Hindi,Climate,Slot 4
+U00491,ta,India,UTC+5:30,Male,Masters,Climate,4,0,Spanish,RL,Slot 2
+U00492,student,Germany,UTC+1,Non-binary,PhD,CS,7,0,Hindi,Time Series,Slot 3
+U00493,student,Japan,UTC+9,Non-binary,Masters,Neuro,9,0,French,RL,Slot 3
+U00494,student,Brazil,UTC-3,Male,Masters,AI,9,0,English,NLP,Slot 1
+U00495,student,Japan,UTC+9,Non-binary,Masters,AI,8,0,Spanish,Neural Coding,Slot 2
+U00496,student,Germany,UTC+1,Female,PhD,CS,0,0,Spanish,Climate,Slot 4
+U00497,student,UK,UTC+0,Male,UG,AI,8,0,French,Time Series,Slot 3
+U00498,student,India,UTC+5:30,Non-binary,PhD,Neuro,4,0,Spanish,Climate,Slot 2
+U00499,student,Japan,UTC+9,Non-binary,Masters,AI,7,0,Hindi,Neural Coding,Slot 1
+U00500,ta,India,UTC+5:30,Male,PhD,AI,3,0,English,Climate,Slot 4
+U00501,student,India,UTC+5:30,Female,PhD,AI,4,1,Spanish,NLP,Slot 2
+U00502,student,UK,UTC+0,Male,UG,AI,6,0,Spanish,Neural Coding,Slot 5
+U00503,student,UK,UTC+0,Male,Masters,Climate,4,0,English,NLP,Slot 3
+U00504,student,UK,UTC+0,Male,UG,Climate,9,0,Hindi,Time Series,Slot 3
+U00505,student,Brazil,UTC-3,Non-binary,PhD,Neuro,1,0,Spanish,Time Series,Slot 5
+U00506,instructor,Brazil,UTC-3,Female,Masters,Neuro,6,0,Spanish,CV,Slot 1
+U00507,student,Canada,UTC-5,Non-binary,UG,AI,1,0,French,Climate,Slot 2
+U00508,student,USA,UTC-5,Female,UG,Neuro,6,0,English,CV,Slot 3
+U00509,student,UK,UTC+0,Male,PhD,CS,1,0,French,RL,Slot 1
+U00510,student,Kenya,UTC+3,Male,UG,CS,1,0,French,NLP,Slot 1
+U00511,student,India,UTC+5:30,Male,Masters,Climate,5,1,Hindi,CV,Slot 4
+U00512,student,Japan,UTC+9,Female,Masters,Climate,1,0,English,RL,Slot 5
+U00513,instructor,Germany,UTC+1,Male,Masters,CS,9,0,English,NLP,Slot 1
+U00514,student,UK,UTC+0,Female,UG,CS,9,1,French,CV,Slot 4
+U00515,student,Brazil,UTC-3,Non-binary,UG,CS,7,0,French,Climate,Slot 5
+U00516,ta,Japan,UTC+9,Non-binary,UG,Climate,0,0,Spanish,Climate,Slot 4
+U00517,student,Brazil,UTC-3,Male,UG,Neuro,4,0,Spanish,CV,Slot 4
+U00518,student,Kenya,UTC+3,Non-binary,Masters,Neuro,1,1,Spanish,Neural Coding,Slot 1
+U00519,student,Canada,UTC-5,Non-binary,PhD,Climate,8,1,Spanish,Neural Coding,Slot 3
+U00520,instructor,India,UTC+5:30,Female,UG,Neuro,8,0,Hindi,CV,Slot 1
+U00521,student,India,UTC+5:30,Male,UG,Neuro,3,0,English,RL,Slot 1
+U00522,student,Kenya,UTC+3,Female,Masters,Climate,3,0,French,Neural Coding,Slot 5
+U00523,student,Canada,UTC-5,Male,Masters,Climate,1,1,French,CV,Slot 4
+U00524,student,India,UTC+5:30,Female,Masters,Climate,0,0,French,CV,Slot 3
+U00525,student,India,UTC+5:30,Male,PhD,CS,8,0,English,Time Series,Slot 3
+U00526,student,Canada,UTC-5,Non-binary,UG,CS,9,0,Hindi,Climate,Slot 4
+U00527,student,Japan,UTC+9,Non-binary,UG,Climate,8,0,French,Neural Coding,Slot 4
+U00528,student,India,UTC+5:30,Non-binary,PhD,AI,2,0,English,RL,Slot 2
+U00529,student,Brazil,UTC-3,Male,UG,AI,2,0,English,RL,Slot 1
+U00530,student,Canada,UTC-5,Male,PhD,AI,1,0,French,NLP,Slot 1
+U00531,student,USA,UTC-5,Female,PhD,Climate,9,1,French,NLP,Slot 5
+U00532,student,Japan,UTC+9,Male,PhD,Climate,4,1,English,RL,Slot 2
+U00533,student,Brazil,UTC-3,Non-binary,PhD,CS,4,0,English,Climate,Slot 1
+U00534,student,Kenya,UTC+3,Non-binary,Masters,Climate,3,0,French,RL,Slot 4
+U00535,student,Japan,UTC+9,Male,UG,Neuro,5,0,Hindi,CV,Slot 5
+U00536,student,Canada,UTC-5,Male,Masters,Neuro,4,0,Spanish,Neural Coding,Slot 4
+U00537,student,Kenya,UTC+3,Female,UG,Neuro,4,1,French,NLP,Slot 3
+U00538,student,Japan,UTC+9,Non-binary,PhD,CS,2,0,Spanish,CV,Slot 3
+U00539,ta,Japan,UTC+9,Female,Masters,Climate,5,0,English,CV,Slot 4
+U00540,student,Germany,UTC+1,Female,PhD,Climate,3,0,French,Neural Coding,Slot 5
+U00541,student,Brazil,UTC-3,Male,Masters,Climate,2,0,Spanish,Climate,Slot 5
+U00542,student,India,UTC+5:30,Male,UG,AI,1,0,English,CV,Slot 1
+U00543,instructor,Japan,UTC+9,Male,Masters,AI,9,0,French,NLP,Slot 4
+U00544,student,Canada,UTC-5,Non-binary,UG,CS,9,0,Spanish,NLP,Slot 4
+U00545,student,Japan,UTC+9,Male,Masters,Neuro,7,0,French,CV,Slot 3
+U00546,student,USA,UTC-5,Female,UG,Climate,7,1,English,CV,Slot 5
+U00547,student,Germany,UTC+1,Male,PhD,AI,6,1,Spanish,NLP,Slot 4
+U00548,student,India,UTC+5:30,Non-binary,UG,Climate,9,0,Spanish,Time Series,Slot 2
+U00549,student,India,UTC+5:30,Male,Masters,Neuro,5,1,French,RL,Slot 4
+U00550,ta,UK,UTC+0,Female,Masters,AI,8,0,Hindi,NLP,Slot 5
+U00551,student,Canada,UTC-5,Non-binary,UG,CS,7,0,French,Climate,Slot 5
+U00552,student,Kenya,UTC+3,Female,PhD,CS,7,0,Hindi,Neural Coding,Slot 3
+U00553,student,Kenya,UTC+3,Non-binary,Masters,Neuro,4,0,French,Time Series,Slot 3
+U00554,student,Germany,UTC+1,Male,PhD,AI,3,0,English,Climate,Slot 4
+U00555,student,UK,UTC+0,Non-binary,UG,CS,1,0,Hindi,NLP,Slot 3
+U00556,student,Canada,UTC-5,Female,Masters,CS,6,0,Spanish,NLP,Slot 2
+U00557,student,Japan,UTC+9,Non-binary,Masters,Neuro,2,1,Spanish,Time Series,Slot 5
+U00558,student,Brazil,UTC-3,Female,UG,Climate,4,0,Spanish,Time Series,Slot 3
+U00559,student,Brazil,UTC-3,Non-binary,Masters,CS,2,0,Spanish,NLP,Slot 2
+U00560,student,Kenya,UTC+3,Female,Masters,Neuro,9,0,French,Climate,Slot 3
+U00561,student,Japan,UTC+9,Male,Masters,CS,8,0,English,RL,Slot 2
+U00562,instructor,USA,UTC-5,Non-binary,Masters,Neuro,2,0,Hindi,Neural Coding,Slot 2
+U00563,student,Brazil,UTC-3,Male,Masters,Climate,9,0,Hindi,CV,Slot 3
+U00564,student,Brazil,UTC-3,Male,Masters,Neuro,0,0,Spanish,NLP,Slot 1
+U00565,student,India,UTC+5:30,Female,Masters,AI,2,0,Spanish,Climate,Slot 2
+U00566,student,Japan,UTC+9,Male,UG,Climate,6,0,Hindi,RL,Slot 4
+U00567,student,Japan,UTC+9,Female,UG,CS,4,1,Spanish,Time Series,Slot 3
+U00568,student,India,UTC+5:30,Female,PhD,AI,7,0,English,Time Series,Slot 1
+U00569,student,Germany,UTC+1,Male,PhD,Neuro,6,0,French,CV,Slot 1
+U00570,student,Canada,UTC-5,Non-binary,PhD,Neuro,1,0,Spanish,Neural Coding,Slot 1
+U00571,student,Kenya,UTC+3,Female,Masters,Neuro,4,0,Hindi,Time Series,Slot 2
+U00572,student,UK,UTC+0,Female,Masters,AI,2,0,Spanish,RL,Slot 1
+U00573,student,Germany,UTC+1,Male,PhD,AI,2,0,Spanish,Time Series,Slot 1
+U00574,student,Brazil,UTC-3,Male,Masters,CS,1,0,Hindi,Time Series,Slot 3
+U00575,instructor,India,UTC+5:30,Non-binary,UG,CS,6,0,English,Neural Coding,Slot 1
+U00576,student,Canada,UTC-5,Female,Masters,CS,9,1,French,RL,Slot 2
+U00577,student,Germany,UTC+1,Non-binary,PhD,CS,8,0,French,RL,Slot 1
+U00578,student,Kenya,UTC+3,Non-binary,PhD,AI,8,1,Hindi,Neural Coding,Slot 5
+U00579,student,USA,UTC-5,Female,UG,CS,7,0,Hindi,CV,Slot 5
+U00580,ta,Germany,UTC+1,Female,PhD,AI,6,0,French,Time Series,Slot 4
+U00581,student,Kenya,UTC+3,Male,UG,Climate,4,0,Spanish,Time Series,Slot 4
+U00582,student,UK,UTC+0,Male,UG,CS,0,1,English,Neural Coding,Slot 5
+U00583,student,Japan,UTC+9,Male,UG,CS,5,0,English,NLP,Slot 2
+U00584,student,Japan,UTC+9,Female,Masters,Climate,0,0,English,Neural Coding,Slot 2
+U00585,student,India,UTC+5:30,Female,Masters,Neuro,3,0,Hindi,Time Series,Slot 1
+U00586,student,USA,UTC-5,Male,UG,AI,0,0,Spanish,NLP,Slot 3
+U00587,student,Japan,UTC+9,Non-binary,Masters,CS,8,0,French,NLP,Slot 2
+U00588,ta,USA,UTC-5,Female,Masters,Climate,8,0,French,RL,Slot 4
+U00589,student,Canada,UTC-5,Non-binary,UG,CS,6,1,Spanish,Time Series,Slot 1
+U00590,ta,Brazil,UTC-3,Male,Masters,Climate,5,1,Hindi,CV,Slot 5
+U00591,student,Canada,UTC-5,Female,PhD,CS,5,0,Spanish,RL,Slot 4
+U00592,student,USA,UTC-5,Female,Masters,CS,0,0,English,NLP,Slot 3
+U00593,student,India,UTC+5:30,Non-binary,PhD,AI,2,0,French,Climate,Slot 5
+U00594,student,USA,UTC-5,Female,PhD,AI,5,0,Hindi,NLP,Slot 4
+U00595,student,Brazil,UTC-3,Non-binary,PhD,CS,8,0,English,Time Series,Slot 2
+U00596,student,Japan,UTC+9,Female,UG,CS,1,0,Hindi,NLP,Slot 2
+U00597,instructor,UK,UTC+0,Female,UG,AI,1,0,Hindi,RL,Slot 2
+U00598,student,USA,UTC-5,Female,Masters,Climate,8,0,English,RL,Slot 4
+U00599,student,UK,UTC+0,Male,Masters,CS,0,0,English,RL,Slot 4
+U00600,student,India,UTC+5:30,Non-binary,PhD,CS,3,0,English,Climate,Slot 5
+U00601,student,Kenya,UTC+3,Non-binary,PhD,AI,8,0,Hindi,NLP,Slot 3
+U00602,student,India,UTC+5:30,Male,Masters,Neuro,4,0,Hindi,Time Series,Slot 3
+U00603,student,Japan,UTC+9,Male,UG,AI,3,0,English,NLP,Slot 3
+U00604,student,Kenya,UTC+3,Non-binary,PhD,Neuro,3,0,English,Neural Coding,Slot 2
+U00605,student,Japan,UTC+9,Male,PhD,Climate,5,0,English,NLP,Slot 5
+U00606,student,Germany,UTC+1,Male,UG,Climate,1,0,Spanish,RL,Slot 2
+U00607,student,UK,UTC+0,Male,Masters,CS,2,0,English,RL,Slot 4
+U00608,student,Brazil,UTC-3,Female,UG,CS,8,0,Hindi,Climate,Slot 4
+U00609,instructor,Brazil,UTC-3,Non-binary,PhD,AI,7,0,Spanish,Neural Coding,Slot 4
+U00610,student,UK,UTC+0,Non-binary,Masters,Climate,8,0,Spanish,NLP,Slot 4
+U00611,student,UK,UTC+0,Female,Masters,AI,2,0,Spanish,RL,Slot 5
+U00612,student,Kenya,UTC+3,Non-binary,PhD,Neuro,0,0,Spanish,CV,Slot 2
+U00613,instructor,Kenya,UTC+3,Non-binary,Masters,AI,0,0,Spanish,Climate,Slot 5
+U00614,student,UK,UTC+0,Non-binary,UG,Neuro,3,0,Hindi,Climate,Slot 5
+U00615,student,Canada,UTC-5,Non-binary,PhD,Neuro,1,0,Hindi,Neural Coding,Slot 5
+U00616,ta,USA,UTC-5,Male,Masters,AI,2,0,English,Time Series,Slot 1
+U00617,student,Germany,UTC+1,Female,UG,Neuro,6,0,French,CV,Slot 1
+U00618,student,Kenya,UTC+3,Male,PhD,CS,6,0,French,RL,Slot 1
+U00619,student,Germany,UTC+1,Non-binary,PhD,Climate,5,0,Spanish,Climate,Slot 3
+U00620,student,India,UTC+5:30,Female,Masters,Climate,6,0,French,Climate,Slot 1
+U00621,student,India,UTC+5:30,Non-binary,Masters,AI,0,0,Hindi,CV,Slot 3
+U00622,student,Germany,UTC+1,Non-binary,UG,Neuro,4,0,Hindi,CV,Slot 1
+U00623,student,Brazil,UTC-3,Male,PhD,CS,3,0,Hindi,Neural Coding,Slot 4
+U00624,student,Kenya,UTC+3,Non-binary,Masters,AI,4,1,Spanish,Climate,Slot 3
+U00625,student,India,UTC+5:30,Female,Masters,AI,9,0,English,CV,Slot 3
+U00626,ta,India,UTC+5:30,Non-binary,PhD,Neuro,1,0,Hindi,Climate,Slot 5
+U00627,student,UK,UTC+0,Male,PhD,Neuro,3,1,Spanish,CV,Slot 5
+U00628,student,USA,UTC-5,Non-binary,UG,Climate,9,1,Hindi,Neural Coding,Slot 3
+U00629,instructor,Germany,UTC+1,Male,PhD,Neuro,0,0,French,NLP,Slot 3
+U00630,ta,Germany,UTC+1,Non-binary,PhD,Climate,1,0,English,Neural Coding,Slot 3
+U00631,student,Japan,UTC+9,Male,PhD,AI,9,1,English,Time Series,Slot 3
+U00632,student,Canada,UTC-5,Male,Masters,Neuro,7,0,French,Neural Coding,Slot 5
+U00633,student,UK,UTC+0,Non-binary,PhD,Climate,1,0,Hindi,Neural Coding,Slot 3
+U00634,student,Germany,UTC+1,Female,PhD,CS,0,0,English,CV,Slot 5
+U00635,student,India,UTC+5:30,Non-binary,UG,AI,7,1,Spanish,Time Series,Slot 4
+U00636,student,USA,UTC-5,Male,PhD,Climate,0,0,English,Time Series,Slot 2
+U00637,student,India,UTC+5:30,Female,PhD,Neuro,7,0,English,Neural Coding,Slot 1
+U00638,student,India,UTC+5:30,Male,Masters,CS,2,0,Spanish,NLP,Slot 4
+U00639,student,Canada,UTC-5,Female,PhD,Climate,4,0,Hindi,NLP,Slot 1
+U00640,student,Canada,UTC-5,Non-binary,UG,CS,3,0,English,Time Series,Slot 5
+U00641,student,India,UTC+5:30,Non-binary,UG,Neuro,6,0,English,NLP,Slot 3
+U00642,student,USA,UTC-5,Female,Masters,Climate,9,0,Hindi,Time Series,Slot 1
+U00643,student,Japan,UTC+9,Male,PhD,AI,7,0,Spanish,Time Series,Slot 4
+U00644,student,Kenya,UTC+3,Non-binary,UG,Neuro,0,0,French,Neural Coding,Slot 5
+U00645,student,Brazil,UTC-3,Male,UG,CS,8,1,Hindi,Climate,Slot 5
+U00646,student,USA,UTC-5,Female,UG,Neuro,2,0,Spanish,RL,Slot 5
+U00647,student,Brazil,UTC-3,Male,UG,AI,8,0,French,CV,Slot 1
+U00648,student,Brazil,UTC-3,Non-binary,PhD,CS,1,0,Hindi,Time Series,Slot 5
+U00649,student,USA,UTC-5,Female,PhD,CS,7,0,French,Neural Coding,Slot 2
+U00650,student,Japan,UTC+9,Female,Masters,AI,1,0,Spanish,Neural Coding,Slot 3
+U00651,student,USA,UTC-5,Male,Masters,Climate,7,0,Hindi,NLP,Slot 5
+U00652,student,Kenya,UTC+3,Non-binary,PhD,AI,7,0,French,NLP,Slot 4
+U00653,student,Brazil,UTC-3,Male,Masters,AI,8,0,Spanish,Time Series,Slot 4
+U00654,student,Kenya,UTC+3,Female,UG,Neuro,3,0,Hindi,RL,Slot 4
+U00655,student,UK,UTC+0,Female,Masters,CS,0,0,Spanish,Time Series,Slot 5
+U00656,student,USA,UTC-5,Female,UG,AI,6,1,French,Time Series,Slot 1
+U00657,student,USA,UTC-5,Male,PhD,CS,1,0,Hindi,Climate,Slot 2
+U00658,student,India,UTC+5:30,Non-binary,Masters,Climate,7,0,Spanish,NLP,Slot 4
+U00659,student,Germany,UTC+1,Non-binary,PhD,Neuro,6,0,Spanish,RL,Slot 5
+U00660,student,USA,UTC-5,Female,Masters,CS,5,0,Spanish,Climate,Slot 2
+U00661,student,Brazil,UTC-3,Female,UG,AI,1,0,Spanish,Time Series,Slot 4
+U00662,student,UK,UTC+0,Male,UG,Climate,3,1,Spanish,Neural Coding,Slot 3
+U00663,student,UK,UTC+0,Male,UG,AI,2,0,French,RL,Slot 4
+U00664,student,Japan,UTC+9,Male,UG,Neuro,5,0,English,Time Series,Slot 5
+U00665,student,Kenya,UTC+3,Non-binary,Masters,AI,7,0,Hindi,Time Series,Slot 4
+U00666,student,UK,UTC+0,Non-binary,PhD,CS,6,0,French,RL,Slot 2
+U00667,ta,Canada,UTC-5,Female,Masters,Climate,8,0,Hindi,Climate,Slot 1
+U00668,student,Brazil,UTC-3,Female,UG,AI,9,0,English,Climate,Slot 3
+U00669,student,Germany,UTC+1,Male,UG,AI,4,1,French,Climate,Slot 1
+U00670,student,Germany,UTC+1,Female,Masters,CS,2,0,Hindi,Time Series,Slot 4
+U00671,student,Japan,UTC+9,Male,PhD,AI,8,0,Hindi,Neural Coding,Slot 2
+U00672,student,India,UTC+5:30,Male,PhD,AI,6,0,Spanish,Time Series,Slot 5
+U00673,student,India,UTC+5:30,Non-binary,UG,CS,8,0,Spanish,NLP,Slot 2
+U00674,student,Canada,UTC-5,Non-binary,PhD,CS,9,1,French,Neural Coding,Slot 2
+U00675,student,Japan,UTC+9,Non-binary,Masters,Climate,8,1,Spanish,CV,Slot 4
+U00676,student,Brazil,UTC-3,Non-binary,UG,Neuro,2,1,Spanish,Time Series,Slot 3
+U00677,student,Japan,UTC+9,Non-binary,PhD,CS,2,1,Spanish,RL,Slot 4
+U00678,student,Brazil,UTC-3,Male,UG,AI,3,0,Hindi,CV,Slot 5
+U00679,ta,USA,UTC-5,Male,Masters,CS,2,0,English,Neural Coding,Slot 4
+U00680,student,Brazil,UTC-3,Non-binary,PhD,CS,5,0,Hindi,Climate,Slot 4
+U00681,student,UK,UTC+0,Male,PhD,Climate,5,0,Spanish,RL,Slot 4
+U00682,student,UK,UTC+0,Non-binary,PhD,CS,3,0,Hindi,CV,Slot 3
+U00683,ta,Japan,UTC+9,Male,UG,Neuro,2,0,Hindi,NLP,Slot 2
+U00684,student,India,UTC+5:30,Non-binary,PhD,CS,6,0,English,Climate,Slot 1
+U00685,student,Canada,UTC-5,Non-binary,UG,Neuro,7,0,Hindi,NLP,Slot 1
+U00686,student,Brazil,UTC-3,Female,PhD,Neuro,2,0,French,Climate,Slot 4
+U00687,student,UK,UTC+0,Non-binary,Masters,Climate,5,0,Spanish,RL,Slot 5
+U00688,student,Japan,UTC+9,Male,Masters,Climate,9,0,French,NLP,Slot 5
+U00689,student,UK,UTC+0,Non-binary,Masters,AI,2,0,English,Time Series,Slot 2
+U00690,student,Japan,UTC+9,Non-binary,UG,CS,6,0,Spanish,Climate,Slot 4
+U00691,student,UK,UTC+0,Non-binary,PhD,CS,3,0,Spanish,RL,Slot 1
+U00692,student,USA,UTC-5,Male,Masters,Climate,8,1,English,Neural Coding,Slot 3
+U00693,student,Germany,UTC+1,Female,UG,CS,0,0,Hindi,RL,Slot 5
+U00694,student,Kenya,UTC+3,Non-binary,PhD,CS,5,1,Spanish,Time Series,Slot 4
+U00695,student,Japan,UTC+9,Male,UG,Neuro,6,0,Spanish,Neural Coding,Slot 5
+U00696,student,Germany,UTC+1,Non-binary,UG,CS,8,0,French,CV,Slot 1
+U00697,instructor,Brazil,UTC-3,Male,Masters,Climate,2,0,French,Time Series,Slot 4
+U00698,student,Canada,UTC-5,Non-binary,UG,CS,5,0,English,Neural Coding,Slot 5
+U00699,student,Kenya,UTC+3,Non-binary,PhD,Neuro,2,1,French,NLP,Slot 2
+U00700,student,Germany,UTC+1,Female,Masters,CS,9,1,French,CV,Slot 4
+U00701,student,USA,UTC-5,Non-binary,UG,Neuro,4,0,French,Neural Coding,Slot 5
+U00702,student,Kenya,UTC+3,Non-binary,PhD,Neuro,4,0,Hindi,RL,Slot 5
+U00703,student,Japan,UTC+9,Male,Masters,Climate,6,1,Hindi,Climate,Slot 1
+U00704,ta,Japan,UTC+9,Male,Masters,CS,7,0,Hindi,Time Series,Slot 2
+U00705,student,Germany,UTC+1,Female,Masters,Neuro,5,0,English,Time Series,Slot 3
+U00706,student,Germany,UTC+1,Female,UG,Climate,8,0,French,Neural Coding,Slot 5
+U00707,student,Brazil,UTC-3,Female,Masters,Neuro,3,0,Spanish,Climate,Slot 3
+U00708,student,Brazil,UTC-3,Non-binary,PhD,AI,9,0,Hindi,Time Series,Slot 2
+U00709,student,Germany,UTC+1,Non-binary,UG,Neuro,2,0,Spanish,CV,Slot 2
+U00710,student,Germany,UTC+1,Non-binary,Masters,AI,9,0,English,Neural Coding,Slot 1
+U00711,student,Japan,UTC+9,Non-binary,UG,CS,9,1,Hindi,NLP,Slot 5
+U00712,student,UK,UTC+0,Female,PhD,Neuro,8,0,Hindi,CV,Slot 5
+U00713,student,Kenya,UTC+3,Female,UG,AI,3,0,English,Climate,Slot 4
+U00714,student,Japan,UTC+9,Non-binary,UG,Neuro,4,0,Hindi,Time Series,Slot 2
+U00715,student,Japan,UTC+9,Male,PhD,Climate,6,0,French,Time Series,Slot 1
+U00716,student,India,UTC+5:30,Non-binary,UG,Climate,7,0,English,NLP,Slot 3
+U00717,student,Kenya,UTC+3,Male,PhD,Neuro,6,0,Spanish,NLP,Slot 4
+U00718,student,UK,UTC+0,Female,UG,Climate,7,0,Hindi,CV,Slot 4
+U00719,student,UK,UTC+0,Female,Masters,Neuro,9,1,Hindi,CV,Slot 5
+U00720,student,Brazil,UTC-3,Non-binary,PhD,AI,6,0,English,Time Series,Slot 3
+U00721,student,Germany,UTC+1,Non-binary,Masters,Climate,2,0,Spanish,CV,Slot 2
+U00722,ta,Japan,UTC+9,Male,UG,Climate,8,0,Hindi,CV,Slot 5
+U00723,student,UK,UTC+0,Female,Masters,Neuro,4,0,English,RL,Slot 1
+U00724,student,Brazil,UTC-3,Male,UG,Neuro,6,0,Hindi,Time Series,Slot 1
+U00725,student,Japan,UTC+9,Non-binary,Masters,Neuro,7,0,French,NLP,Slot 5
+U00726,ta,Kenya,UTC+3,Female,UG,Climate,9,0,English,NLP,Slot 5
+U00727,student,Germany,UTC+1,Non-binary,PhD,AI,0,0,French,NLP,Slot 3
+U00728,student,Japan,UTC+9,Non-binary,Masters,CS,5,1,Hindi,Climate,Slot 3
+U00729,student,Japan,UTC+9,Non-binary,UG,AI,4,1,French,RL,Slot 5
+U00730,student,Canada,UTC-5,Male,UG,AI,1,0,French,CV,Slot 3
+U00731,ta,UK,UTC+0,Non-binary,Masters,Neuro,2,0,Hindi,NLP,Slot 4
+U00732,student,UK,UTC+0,Non-binary,PhD,Climate,7,0,Hindi,CV,Slot 2
+U00733,student,India,UTC+5:30,Male,PhD,AI,9,1,French,Time Series,Slot 1
+U00734,student,Germany,UTC+1,Male,Masters,CS,0,0,English,Neural Coding,Slot 4
+U00735,student,India,UTC+5:30,Male,Masters,CS,3,0,English,NLP,Slot 5
+U00736,student,Brazil,UTC-3,Male,PhD,Climate,3,0,French,CV,Slot 2
+U00737,student,Kenya,UTC+3,Female,PhD,AI,4,0,Spanish,Climate,Slot 2
+U00738,student,India,UTC+5:30,Male,PhD,Neuro,8,0,French,RL,Slot 4
+U00739,student,Kenya,UTC+3,Non-binary,Masters,AI,0,0,Spanish,Climate,Slot 5
+U00740,student,Japan,UTC+9,Non-binary,PhD,Climate,2,1,French,NLP,Slot 4
+U00741,student,Germany,UTC+1,Male,Masters,Neuro,3,0,French,RL,Slot 3
+U00742,student,Brazil,UTC-3,Female,UG,CS,6,1,Spanish,NLP,Slot 3
+U00743,student,Japan,UTC+9,Non-binary,UG,Climate,2,0,Hindi,NLP,Slot 1
+U00744,student,Canada,UTC-5,Female,PhD,AI,9,0,English,Climate,Slot 3
+U00745,student,Germany,UTC+1,Female,PhD,Climate,8,0,Hindi,CV,Slot 2
+U00746,student,Canada,UTC-5,Female,UG,Neuro,6,0,English,RL,Slot 2
+U00747,student,Kenya,UTC+3,Female,PhD,Neuro,7,0,Hindi,CV,Slot 1
+U00748,student,Brazil,UTC-3,Male,Masters,CS,5,0,Hindi,Climate,Slot 4
+U00749,student,Kenya,UTC+3,Non-binary,PhD,Climate,2,0,Spanish,NLP,Slot 1
+U00750,ta,Brazil,UTC-3,Male,PhD,CS,7,0,Spanish,Neural Coding,Slot 3
+U00751,student,Kenya,UTC+3,Male,PhD,Climate,6,0,English,CV,Slot 1
+U00752,ta,Brazil,UTC-3,Male,Masters,AI,4,0,French,RL,Slot 3
+U00753,student,Japan,UTC+9,Female,Masters,CS,5,1,French,Neural Coding,Slot 2
+U00754,student,India,UTC+5:30,Female,Masters,CS,6,1,Hindi,CV,Slot 2
+U00755,student,Kenya,UTC+3,Female,UG,CS,6,0,Spanish,RL,Slot 4
+U00756,student,Germany,UTC+1,Non-binary,UG,AI,1,0,Hindi,Time Series,Slot 1
+U00757,ta,Germany,UTC+1,Female,Masters,Neuro,6,0,French,CV,Slot 1
+U00758,student,USA,UTC-5,Female,Masters,Neuro,2,0,Spanish,NLP,Slot 1
+U00759,student,Germany,UTC+1,Male,UG,Climate,1,0,French,Neural Coding,Slot 2
+U00760,student,Kenya,UTC+3,Non-binary,UG,Climate,2,0,Spanish,Neural Coding,Slot 1
+U00761,ta,Japan,UTC+9,Non-binary,PhD,AI,3,1,French,Neural Coding,Slot 2
+U00762,student,Brazil,UTC-3,Female,UG,Neuro,8,0,English,Neural Coding,Slot 3
+U00763,student,Brazil,UTC-3,Non-binary,PhD,CS,8,0,Spanish,RL,Slot 2
+U00764,student,UK,UTC+0,Non-binary,PhD,Neuro,2,1,Hindi,Time Series,Slot 2
+U00765,student,India,UTC+5:30,Non-binary,Masters,Neuro,4,0,Spanish,NLP,Slot 1
+U00766,student,Japan,UTC+9,Non-binary,Masters,Neuro,0,0,Hindi,CV,Slot 5
+U00767,student,Brazil,UTC-3,Non-binary,Masters,Neuro,8,0,Hindi,NLP,Slot 5
+U00768,student,Brazil,UTC-3,Male,PhD,AI,8,0,Hindi,NLP,Slot 3
+U00769,student,UK,UTC+0,Female,UG,Climate,0,1,Spanish,Neural Coding,Slot 5
+U00770,student,UK,UTC+0,Non-binary,UG,Neuro,2,0,English,Time Series,Slot 5
+U00771,student,Canada,UTC-5,Male,PhD,Climate,1,0,Spanish,Climate,Slot 3
+U00772,student,UK,UTC+0,Female,PhD,Neuro,6,0,English,Neural Coding,Slot 5
+U00773,student,USA,UTC-5,Male,UG,AI,0,1,English,CV,Slot 1
+U00774,student,Japan,UTC+9,Male,UG,CS,2,0,Hindi,Time Series,Slot 4
+U00775,student,Kenya,UTC+3,Male,Masters,AI,5,0,English,Neural Coding,Slot 2
+U00776,student,Japan,UTC+9,Male,Masters,CS,8,0,French,Climate,Slot 4
+U00777,student,UK,UTC+0,Non-binary,UG,Neuro,3,1,English,Time Series,Slot 1
+U00778,student,Kenya,UTC+3,Male,UG,CS,2,0,English,Time Series,Slot 2
+U00779,ta,Canada,UTC-5,Male,UG,AI,2,1,Spanish,Climate,Slot 5
+U00780,student,Canada,UTC-5,Non-binary,UG,Neuro,6,0,Hindi,Time Series,Slot 4
+U00781,student,USA,UTC-5,Male,UG,Climate,5,0,French,Time Series,Slot 2
+U00782,student,Japan,UTC+9,Female,Masters,Neuro,2,0,French,RL,Slot 4
+U00783,student,UK,UTC+0,Non-binary,UG,AI,3,0,Hindi,Climate,Slot 3
+U00784,student,UK,UTC+0,Female,Masters,Climate,9,1,English,Time Series,Slot 1
+U00785,student,Kenya,UTC+3,Non-binary,UG,AI,8,0,French,Neural Coding,Slot 3
+U00786,ta,Germany,UTC+1,Male,Masters,CS,9,0,French,Climate,Slot 5
+U00787,student,Brazil,UTC-3,Male,UG,Climate,6,0,French,CV,Slot 2
+U00788,student,Kenya,UTC+3,Female,PhD,AI,6,0,Spanish,NLP,Slot 3
+U00789,student,USA,UTC-5,Non-binary,Masters,AI,3,0,English,Time Series,Slot 3
+U00790,student,Japan,UTC+9,Male,Masters,CS,3,0,French,Neural Coding,Slot 5
+U00791,student,Canada,UTC-5,Male,UG,Neuro,0,0,French,RL,Slot 4
+U00792,student,USA,UTC-5,Male,PhD,CS,4,0,Hindi,Neural Coding,Slot 3
+U00793,student,India,UTC+5:30,Female,PhD,AI,8,0,French,Climate,Slot 2
+U00794,ta,Brazil,UTC-3,Male,PhD,Climate,7,1,Hindi,Climate,Slot 5
+U00795,student,USA,UTC-5,Male,Masters,Neuro,5,1,Hindi,CV,Slot 2
+U00796,student,UK,UTC+0,Male,Masters,CS,6,0,Hindi,NLP,Slot 1
+U00797,student,Canada,UTC-5,Non-binary,Masters,AI,2,0,Spanish,RL,Slot 5
+U00798,student,Germany,UTC+1,Female,Masters,AI,4,0,Spanish,CV,Slot 1
+U00799,student,Kenya,UTC+3,Female,Masters,CS,3,0,English,Time Series,Slot 4
+U00800,student,Canada,UTC-5,Female,Masters,AI,4,0,French,NLP,Slot 5
+U00801,ta,India,UTC+5:30,Female,UG,Neuro,3,1,Hindi,Climate,Slot 2
+U00802,student,Japan,UTC+9,Male,UG,AI,0,0,French,CV,Slot 1
+U00803,student,USA,UTC-5,Non-binary,UG,AI,7,0,Spanish,NLP,Slot 1
+U00804,student,UK,UTC+0,Non-binary,UG,Neuro,8,0,Hindi,RL,Slot 1
+U00805,student,UK,UTC+0,Male,PhD,AI,5,0,Spanish,Climate,Slot 5
+U00806,student,Kenya,UTC+3,Non-binary,Masters,AI,3,0,English,RL,Slot 5
+U00807,student,India,UTC+5:30,Female,UG,CS,6,0,French,CV,Slot 5
+U00808,student,Kenya,UTC+3,Male,Masters,CS,5,0,English,RL,Slot 3
+U00809,instructor,UK,UTC+0,Male,UG,Neuro,1,0,Hindi,CV,Slot 4
+U00810,student,USA,UTC-5,Female,Masters,CS,8,0,Spanish,CV,Slot 5
+U00811,student,Japan,UTC+9,Non-binary,PhD,CS,5,1,English,CV,Slot 5
+U00812,student,Kenya,UTC+3,Female,Masters,Climate,5,0,Spanish,Neural Coding,Slot 3
+U00813,student,UK,UTC+0,Female,PhD,Neuro,9,1,Spanish,Climate,Slot 3
+U00814,student,India,UTC+5:30,Non-binary,Masters,Climate,0,0,English,Climate,Slot 3
+U00815,student,Germany,UTC+1,Male,Masters,Climate,3,0,Spanish,Neural Coding,Slot 4
+U00816,student,Germany,UTC+1,Female,UG,AI,5,1,Hindi,NLP,Slot 5
+U00817,student,UK,UTC+0,Female,PhD,AI,7,0,Spanish,Time Series,Slot 2
+U00818,student,Germany,UTC+1,Male,Masters,AI,9,0,Hindi,CV,Slot 5
+U00819,student,Brazil,UTC-3,Female,UG,CS,9,0,Spanish,NLP,Slot 2
+U00820,ta,India,UTC+5:30,Female,Masters,Climate,8,1,French,RL,Slot 3
+U00821,student,Brazil,UTC-3,Male,UG,AI,0,0,Spanish,Neural Coding,Slot 5
+U00822,student,Kenya,UTC+3,Non-binary,PhD,AI,6,0,Spanish,CV,Slot 1
+U00823,student,UK,UTC+0,Male,PhD,Climate,2,0,Spanish,Climate,Slot 5
+U00824,ta,Japan,UTC+9,Non-binary,PhD,Neuro,0,0,Spanish,RL,Slot 4
+U00825,student,Japan,UTC+9,Male,UG,AI,7,1,Spanish,Neural Coding,Slot 4
+U00826,student,India,UTC+5:30,Female,Masters,AI,0,1,Spanish,CV,Slot 1
+U00827,instructor,Brazil,UTC-3,Female,PhD,Climate,9,0,French,RL,Slot 2
+U00828,ta,Canada,UTC-5,Female,UG,Climate,6,0,French,RL,Slot 5
+U00829,student,India,UTC+5:30,Non-binary,UG,Climate,0,0,Hindi,Neural Coding,Slot 2
+U00830,student,Canada,UTC-5,Non-binary,UG,Climate,1,0,English,CV,Slot 3
+U00831,student,Japan,UTC+9,Female,Masters,Neuro,3,0,Hindi,CV,Slot 4
+U00832,student,Kenya,UTC+3,Non-binary,UG,AI,7,0,Hindi,Time Series,Slot 4
+U00833,student,USA,UTC-5,Non-binary,PhD,CS,9,0,Spanish,Climate,Slot 5
+U00834,student,Brazil,UTC-3,Female,Masters,Neuro,1,0,Hindi,Neural Coding,Slot 2
+U00835,student,Japan,UTC+9,Non-binary,PhD,AI,1,1,Hindi,Neural Coding,Slot 3
+U00836,student,UK,UTC+0,Non-binary,PhD,AI,1,0,English,Neural Coding,Slot 1
+U00837,student,Japan,UTC+9,Non-binary,Masters,CS,6,1,Hindi,Time Series,Slot 5
+U00838,student,Brazil,UTC-3,Female,PhD,Climate,4,1,English,CV,Slot 3
+U00839,student,Brazil,UTC-3,Male,UG,AI,7,1,English,RL,Slot 3
+U00840,student,Kenya,UTC+3,Non-binary,Masters,Neuro,2,0,Spanish,Neural Coding,Slot 2
+U00841,student,Germany,UTC+1,Male,PhD,Neuro,9,1,English,RL,Slot 4
+U00842,student,Japan,UTC+9,Non-binary,UG,Climate,8,0,Spanish,CV,Slot 5
+U00843,student,Japan,UTC+9,Female,Masters,Climate,4,0,English,Climate,Slot 5
+U00844,student,India,UTC+5:30,Male,PhD,Neuro,2,0,Spanish,Neural Coding,Slot 2
+U00845,student,Brazil,UTC-3,Male,PhD,Neuro,5,0,English,CV,Slot 1
+U00846,student,Kenya,UTC+3,Female,UG,CS,1,0,English,RL,Slot 2
+U00847,student,Brazil,UTC-3,Non-binary,Masters,AI,8,0,Hindi,Time Series,Slot 5
+U00848,student,UK,UTC+0,Male,UG,Neuro,9,0,French,NLP,Slot 4
+U00849,student,USA,UTC-5,Female,PhD,CS,0,0,French,RL,Slot 2
+U00850,student,USA,UTC-5,Non-binary,Masters,Neuro,4,0,Hindi,Climate,Slot 2
+U00851,student,Germany,UTC+1,Non-binary,UG,CS,0,0,English,RL,Slot 5
+U00852,student,Kenya,UTC+3,Female,PhD,Neuro,9,0,French,Climate,Slot 5
+U00853,student,UK,UTC+0,Male,PhD,Climate,0,0,Hindi,RL,Slot 2
+U00854,student,Germany,UTC+1,Non-binary,Masters,AI,7,0,English,Neural Coding,Slot 1
+U00855,student,Japan,UTC+9,Non-binary,UG,AI,5,0,Hindi,RL,Slot 1
+U00856,student,UK,UTC+0,Female,PhD,AI,1,0,English,Time Series,Slot 2
+U00857,student,Kenya,UTC+3,Female,UG,Neuro,2,1,French,Climate,Slot 5
+U00858,student,UK,UTC+0,Male,UG,Neuro,5,1,French,RL,Slot 5
+U00859,student,India,UTC+5:30,Male,UG,Neuro,2,0,French,Time Series,Slot 4
+U00860,student,Japan,UTC+9,Male,PhD,AI,4,0,Hindi,CV,Slot 4
+U00861,ta,UK,UTC+0,Female,Masters,CS,4,1,French,Climate,Slot 3
+U00862,student,India,UTC+5:30,Male,PhD,Neuro,6,0,French,Neural Coding,Slot 2
+U00863,instructor,Kenya,UTC+3,Male,Masters,Climate,8,1,Spanish,Climate,Slot 5
+U00864,student,Canada,UTC-5,Male,PhD,CS,3,0,French,Time Series,Slot 3
+U00865,instructor,India,UTC+5:30,Female,Masters,CS,5,0,Hindi,CV,Slot 3
+U00866,student,Japan,UTC+9,Female,UG,Neuro,0,0,Spanish,Neural Coding,Slot 3
+U00867,student,India,UTC+5:30,Male,UG,Climate,4,1,English,RL,Slot 5
+U00868,student,Brazil,UTC-3,Male,Masters,Climate,9,1,French,NLP,Slot 2
+U00869,student,USA,UTC-5,Non-binary,PhD,AI,9,0,Spanish,Time Series,Slot 1
+U00870,student,Japan,UTC+9,Female,PhD,CS,4,1,English,NLP,Slot 1
+U00871,student,USA,UTC-5,Female,Masters,CS,2,0,English,Climate,Slot 3
+U00872,student,India,UTC+5:30,Non-binary,Masters,AI,2,0,French,CV,Slot 2
+U00873,student,Kenya,UTC+3,Female,PhD,Neuro,3,0,Hindi,Time Series,Slot 1
+U00874,instructor,Kenya,UTC+3,Male,UG,Neuro,1,0,English,Neural Coding,Slot 5
+U00875,student,USA,UTC-5,Male,PhD,Neuro,9,0,French,NLP,Slot 2
+U00876,student,Kenya,UTC+3,Non-binary,UG,AI,7,0,English,NLP,Slot 5
+U00877,student,UK,UTC+0,Non-binary,Masters,CS,3,1,Spanish,Neural Coding,Slot 4
+U00878,student,India,UTC+5:30,Male,Masters,CS,4,0,English,RL,Slot 4
+U00879,student,Brazil,UTC-3,Non-binary,PhD,Climate,5,0,French,NLP,Slot 3
+U00880,student,Germany,UTC+1,Non-binary,PhD,CS,4,0,Hindi,Climate,Slot 2
+U00881,student,USA,UTC-5,Non-binary,Masters,CS,9,1,Hindi,NLP,Slot 4
+U00882,student,Japan,UTC+9,Male,UG,AI,2,0,French,NLP,Slot 4
+U00883,student,Brazil,UTC-3,Non-binary,PhD,Neuro,3,1,French,RL,Slot 4
+U00884,student,India,UTC+5:30,Male,Masters,CS,9,0,French,RL,Slot 4
+U00885,student,Brazil,UTC-3,Female,Masters,AI,7,0,English,RL,Slot 1
+U00886,student,UK,UTC+0,Non-binary,PhD,CS,8,0,French,Climate,Slot 4
+U00887,student,Canada,UTC-5,Non-binary,Masters,AI,4,1,Spanish,Climate,Slot 2
+U00888,student,Japan,UTC+9,Female,UG,Neuro,2,0,Spanish,Time Series,Slot 5
+U00889,student,Canada,UTC-5,Female,PhD,Neuro,6,1,Spanish,CV,Slot 1
+U00890,student,Japan,UTC+9,Male,PhD,Climate,8,0,French,Climate,Slot 1
+U00891,student,Japan,UTC+9,Male,Masters,Climate,0,1,English,Climate,Slot 1
+U00892,ta,Canada,UTC-5,Female,Masters,CS,2,0,English,CV,Slot 2
+U00893,student,India,UTC+5:30,Male,PhD,AI,4,0,Hindi,Climate,Slot 3
+U00894,student,Canada,UTC-5,Non-binary,PhD,Climate,6,0,Spanish,CV,Slot 3
+U00895,student,Kenya,UTC+3,Non-binary,PhD,Neuro,5,0,Hindi,Time Series,Slot 3
+U00896,student,USA,UTC-5,Non-binary,UG,Climate,9,0,Spanish,NLP,Slot 1
+U00897,student,UK,UTC+0,Non-binary,UG,CS,1,0,French,Neural Coding,Slot 3
+U00898,student,India,UTC+5:30,Male,Masters,Climate,8,0,French,Time Series,Slot 4
+U00899,instructor,Canada,UTC-5,Female,Masters,AI,1,0,Spanish,RL,Slot 2
+U00900,student,Germany,UTC+1,Non-binary,Masters,Neuro,6,0,Hindi,CV,Slot 3
+U00901,student,Brazil,UTC-3,Male,UG,CS,3,1,English,CV,Slot 4
+U00902,student,Canada,UTC-5,Male,UG,AI,4,0,Hindi,RL,Slot 5
+U00903,ta,Canada,UTC-5,Non-binary,UG,Climate,8,0,Hindi,Climate,Slot 4
+U00904,student,Canada,UTC-5,Female,UG,AI,1,0,Hindi,Climate,Slot 1
+U00905,student,Japan,UTC+9,Non-binary,UG,Neuro,1,0,Hindi,Climate,Slot 5
+U00906,student,UK,UTC+0,Male,UG,Climate,5,0,French,Neural Coding,Slot 5
+U00907,student,Japan,UTC+9,Non-binary,UG,AI,1,0,French,RL,Slot 5
+U00908,student,USA,UTC-5,Non-binary,PhD,CS,5,0,Spanish,RL,Slot 1
+U00909,student,Kenya,UTC+3,Non-binary,UG,Neuro,6,1,English,RL,Slot 4
+U00910,student,Japan,UTC+9,Non-binary,PhD,Neuro,5,0,Hindi,NLP,Slot 3
+U00911,student,Kenya,UTC+3,Male,UG,Neuro,7,0,French,Neural Coding,Slot 4
+U00912,student,Brazil,UTC-3,Non-binary,UG,Neuro,6,0,English,NLP,Slot 4
+U00913,student,USA,UTC-5,Male,PhD,CS,7,0,French,NLP,Slot 2
+U00914,ta,Kenya,UTC+3,Female,Masters,CS,6,0,English,Climate,Slot 2
+U00915,student,Brazil,UTC-3,Non-binary,Masters,Neuro,8,0,Spanish,NLP,Slot 2
+U00916,student,Japan,UTC+9,Male,PhD,CS,2,0,French,Neural Coding,Slot 2
+U00917,student,Brazil,UTC-3,Female,Masters,Climate,5,0,Spanish,Time Series,Slot 4
+U00918,student,Brazil,UTC-3,Male,PhD,Neuro,9,0,English,Time Series,Slot 3
+U00919,student,USA,UTC-5,Male,UG,Climate,3,0,Hindi,RL,Slot 3
+U00920,student,Japan,UTC+9,Non-binary,PhD,AI,1,0,Hindi,Time Series,Slot 4
+U00921,student,Japan,UTC+9,Female,UG,Climate,7,0,English,NLP,Slot 4
+U00922,student,Canada,UTC-5,Non-binary,Masters,CS,3,0,English,Climate,Slot 3
+U00923,student,Canada,UTC-5,Non-binary,PhD,Neuro,1,0,French,NLP,Slot 3
+U00924,student,USA,UTC-5,Female,PhD,Climate,1,0,Hindi,Time Series,Slot 2
+U00925,student,Germany,UTC+1,Non-binary,Masters,AI,8,0,French,Climate,Slot 1
+U00926,student,India,UTC+5:30,Male,UG,Climate,0,0,English,Climate,Slot 1
+U00927,student,Japan,UTC+9,Female,UG,Neuro,5,0,French,CV,Slot 1
+U00928,student,India,UTC+5:30,Non-binary,UG,CS,1,0,Spanish,Climate,Slot 1
+U00929,student,USA,UTC-5,Male,PhD,AI,8,0,Hindi,Time Series,Slot 5
+U00930,ta,Brazil,UTC-3,Male,PhD,AI,8,0,French,NLP,Slot 4
+U00931,student,USA,UTC-5,Non-binary,Masters,Neuro,1,0,Hindi,Time Series,Slot 3
+U00932,student,Kenya,UTC+3,Male,UG,Neuro,2,0,English,RL,Slot 4
+U00933,ta,UK,UTC+0,Male,Masters,Neuro,7,1,Spanish,RL,Slot 1
+U00934,student,Japan,UTC+9,Male,PhD,Climate,9,0,Spanish,Time Series,Slot 4
+U00935,student,USA,UTC-5,Male,PhD,Climate,8,0,Spanish,Climate,Slot 1
+U00936,student,Japan,UTC+9,Non-binary,Masters,CS,6,0,English,Neural Coding,Slot 1
+U00937,ta,Kenya,UTC+3,Female,UG,Climate,4,1,Spanish,Time Series,Slot 1
+U00938,student,India,UTC+5:30,Non-binary,Masters,Neuro,0,0,Spanish,Time Series,Slot 3
+U00939,ta,Canada,UTC-5,Non-binary,UG,Climate,8,0,Hindi,RL,Slot 4
+U00940,student,USA,UTC-5,Non-binary,UG,CS,4,0,Hindi,Time Series,Slot 4
+U00941,student,USA,UTC-5,Non-binary,PhD,Neuro,6,0,French,Time Series,Slot 3
+U00942,student,Canada,UTC-5,Male,PhD,CS,1,0,French,Climate,Slot 3
+U00943,student,USA,UTC-5,Female,Masters,AI,8,0,Spanish,Climate,Slot 1
+U00944,student,Canada,UTC-5,Non-binary,UG,Neuro,1,0,Hindi,Neural Coding,Slot 3
+U00945,student,Japan,UTC+9,Male,PhD,Climate,1,0,Spanish,CV,Slot 1
+U00946,student,Germany,UTC+1,Male,PhD,AI,5,1,Hindi,RL,Slot 1
+U00947,student,Kenya,UTC+3,Female,PhD,Climate,6,0,English,Neural Coding,Slot 3
+U00948,student,India,UTC+5:30,Female,PhD,CS,7,1,Hindi,Neural Coding,Slot 2
+U00949,student,Japan,UTC+9,Non-binary,PhD,AI,2,0,Spanish,Neural Coding,Slot 1
+U00950,student,Brazil,UTC-3,Female,PhD,CS,4,0,Hindi,Climate,Slot 1
+U00951,student,Germany,UTC+1,Non-binary,PhD,AI,0,1,English,CV,Slot 1
+U00952,student,Kenya,UTC+3,Male,Masters,AI,2,0,English,Neural Coding,Slot 1
+U00953,student,Japan,UTC+9,Non-binary,PhD,AI,5,0,English,CV,Slot 4
+U00954,student,UK,UTC+0,Non-binary,PhD,Climate,4,0,French,Neural Coding,Slot 5
+U00955,student,Brazil,UTC-3,Female,UG,CS,5,0,Spanish,NLP,Slot 1
+U00956,student,USA,UTC-5,Female,UG,Climate,3,1,Spanish,Time Series,Slot 3
+U00957,student,Brazil,UTC-3,Female,UG,CS,2,0,Spanish,Neural Coding,Slot 5
+U00958,student,Canada,UTC-5,Male,UG,Climate,5,0,English,Neural Coding,Slot 1
+U00959,student,Brazil,UTC-3,Male,PhD,Neuro,8,1,Hindi,Time Series,Slot 4
+U00960,student,Brazil,UTC-3,Male,UG,Neuro,5,0,Hindi,RL,Slot 2
+U00961,student,Brazil,UTC-3,Non-binary,PhD,CS,0,0,Spanish,Time Series,Slot 4
+U00962,instructor,USA,UTC-5,Non-binary,Masters,Neuro,5,0,Hindi,Neural Coding,Slot 5
+U00963,student,Germany,UTC+1,Male,UG,CS,8,0,French,Climate,Slot 5
+U00964,student,Germany,UTC+1,Female,PhD,AI,4,0,French,Neural Coding,Slot 2
+U00965,student,USA,UTC-5,Male,PhD,Climate,6,0,Hindi,CV,Slot 2
+U00966,student,India,UTC+5:30,Male,PhD,Neuro,4,0,French,CV,Slot 4
+U00967,instructor,Kenya,UTC+3,Female,PhD,Climate,2,0,English,Neural Coding,Slot 1
+U00968,ta,Brazil,UTC-3,Male,UG,Climate,0,0,English,Neural Coding,Slot 2
+U00969,student,Japan,UTC+9,Non-binary,PhD,Neuro,5,0,Hindi,CV,Slot 3
+U00970,ta,Germany,UTC+1,Male,Masters,AI,8,1,English,CV,Slot 4
+U00971,student,Germany,UTC+1,Female,UG,CS,6,0,Hindi,Climate,Slot 4
+U00972,student,India,UTC+5:30,Female,UG,AI,7,1,Hindi,CV,Slot 4
+U00973,student,UK,UTC+0,Male,Masters,AI,3,0,French,NLP,Slot 2
+U00974,instructor,UK,UTC+0,Male,UG,CS,5,0,French,CV,Slot 1
+U00975,student,Japan,UTC+9,Female,Masters,AI,6,0,French,CV,Slot 3
+U00976,student,Brazil,UTC-3,Non-binary,PhD,AI,9,0,Spanish,Neural Coding,Slot 4
+U00977,student,Japan,UTC+9,Male,PhD,Climate,4,0,Hindi,NLP,Slot 1
+U00978,ta,Canada,UTC-5,Non-binary,UG,AI,0,0,French,RL,Slot 5
+U00979,ta,Germany,UTC+1,Non-binary,UG,CS,7,0,Hindi,Neural Coding,Slot 1
+U00980,student,Japan,UTC+9,Non-binary,PhD,CS,8,0,Hindi,Climate,Slot 4
+U00981,student,Japan,UTC+9,Non-binary,UG,Climate,1,0,Hindi,CV,Slot 1
+U00982,student,India,UTC+5:30,Non-binary,PhD,Climate,7,0,Spanish,CV,Slot 3
+U00983,instructor,Kenya,UTC+3,Male,PhD,CS,1,0,English,RL,Slot 3
+U00984,student,Brazil,UTC-3,Non-binary,Masters,CS,4,1,Hindi,RL,Slot 2
+U00985,student,Canada,UTC-5,Male,Masters,Climate,5,0,English,Time Series,Slot 1
+U00986,student,Canada,UTC-5,Non-binary,Masters,CS,2,0,French,RL,Slot 3
+U00987,student,Germany,UTC+1,Non-binary,UG,Neuro,0,0,English,Climate,Slot 3
+U00988,instructor,India,UTC+5:30,Male,Masters,Neuro,1,1,Hindi,Climate,Slot 1
+U00989,student,UK,UTC+0,Female,UG,CS,5,0,Spanish,CV,Slot 3
+U00990,student,Germany,UTC+1,Non-binary,UG,Climate,7,0,Spanish,Time Series,Slot 2
+U00991,instructor,UK,UTC+0,Female,Masters,Climate,8,0,French,Neural Coding,Slot 1
+U00992,student,UK,UTC+0,Female,Masters,Climate,1,0,English,RL,Slot 5
+U00993,student,Kenya,UTC+3,Female,PhD,Neuro,5,0,English,CV,Slot 4
+U00994,student,USA,UTC-5,Male,Masters,AI,2,0,French,Neural Coding,Slot 1
+U00995,student,Brazil,UTC-3,Female,UG,AI,0,1,Hindi,CV,Slot 2
+U00996,student,India,UTC+5:30,Female,Masters,AI,1,1,Hindi,NLP,Slot 4
+U00997,student,Japan,UTC+9,Non-binary,PhD,CS,9,0,French,CV,Slot 1
+U00998,student,India,UTC+5:30,Male,PhD,Neuro,0,0,Hindi,Climate,Slot 3
+U00999,student,UK,UTC+0,Female,PhD,Climate,3,0,Hindi,NLP,Slot 5
+U01000,student,Brazil,UTC-3,Female,UG,Neuro,5,0,Spanish,RL,Slot 3
+U01001,student,Kenya,UTC+3,Male,UG,Neuro,3,0,French,RL,Slot 2
+U01002,ta,Brazil,UTC-3,Non-binary,PhD,Neuro,9,1,Spanish,CV,Slot 2
+U01003,student,Brazil,UTC-3,Male,UG,CS,9,0,French,Climate,Slot 2
+U01004,student,Japan,UTC+9,Female,Masters,AI,7,1,Spanish,Climate,Slot 1
+U01005,student,UK,UTC+0,Female,UG,Neuro,8,0,Hindi,Climate,Slot 2
+U01006,ta,Kenya,UTC+3,Male,UG,Climate,9,1,Hindi,CV,Slot 4
+U01007,student,UK,UTC+0,Male,UG,Neuro,6,1,French,RL,Slot 3
+U01008,instructor,Brazil,UTC-3,Non-binary,PhD,Climate,8,0,French,Time Series,Slot 1
+U01009,student,Japan,UTC+9,Male,UG,CS,3,0,French,Neural Coding,Slot 4
+U01010,student,Germany,UTC+1,Female,Masters,CS,2,1,French,Neural Coding,Slot 5
+U01011,student,Germany,UTC+1,Non-binary,PhD,AI,0,0,French,CV,Slot 1
+U01012,student,USA,UTC-5,Non-binary,Masters,CS,3,0,Hindi,CV,Slot 4
+U01013,student,UK,UTC+0,Non-binary,PhD,CS,0,0,French,RL,Slot 2
+U01014,student,Canada,UTC-5,Female,Masters,Neuro,3,0,English,NLP,Slot 3
+U01015,student,UK,UTC+0,Female,Masters,CS,8,0,Spanish,Time Series,Slot 4
+U01016,student,Canada,UTC-5,Female,Masters,AI,0,0,Hindi,Time Series,Slot 4
+U01017,student,Brazil,UTC-3,Non-binary,PhD,CS,8,1,Spanish,CV,Slot 3
+U01018,student,Japan,UTC+9,Non-binary,Masters,CS,7,0,Hindi,Neural Coding,Slot 1
+U01019,student,Canada,UTC-5,Non-binary,Masters,Climate,9,1,Spanish,Climate,Slot 4
+U01020,student,Brazil,UTC-3,Male,UG,Climate,6,1,French,Climate,Slot 4
+U01021,ta,India,UTC+5:30,Female,PhD,Neuro,7,0,Hindi,Climate,Slot 4
+U01022,student,Germany,UTC+1,Male,UG,AI,6,0,French,NLP,Slot 4
+U01023,student,USA,UTC-5,Non-binary,PhD,Neuro,3,0,Hindi,CV,Slot 4
+U01024,student,Germany,UTC+1,Male,UG,Neuro,2,0,Hindi,Neural Coding,Slot 5
+U01025,student,UK,UTC+0,Non-binary,Masters,Climate,8,0,French,Time Series,Slot 4
+U01026,student,USA,UTC-5,Female,PhD,CS,2,0,French,CV,Slot 5
+U01027,student,India,UTC+5:30,Male,Masters,Climate,7,1,Spanish,NLP,Slot 2
+U01028,student,India,UTC+5:30,Female,Masters,Climate,3,0,French,Neural Coding,Slot 3
+U01029,student,Kenya,UTC+3,Non-binary,PhD,CS,9,1,Spanish,Time Series,Slot 2
+U01030,student,USA,UTC-5,Non-binary,UG,Neuro,0,0,French,Time Series,Slot 3
+U01031,student,Kenya,UTC+3,Non-binary,PhD,Neuro,6,1,English,Climate,Slot 5
+U01032,student,UK,UTC+0,Male,UG,AI,4,0,French,NLP,Slot 4
+U01033,student,Canada,UTC-5,Female,UG,CS,8,0,Spanish,CV,Slot 5
+U01034,student,Germany,UTC+1,Male,PhD,CS,8,1,Hindi,RL,Slot 1
+U01035,student,USA,UTC-5,Male,UG,Climate,5,0,French,NLP,Slot 3
+U01036,student,Brazil,UTC-3,Female,PhD,Neuro,2,0,Spanish,Time Series,Slot 3
+U01037,student,India,UTC+5:30,Non-binary,UG,AI,5,0,Spanish,Time Series,Slot 2
+U01038,student,Germany,UTC+1,Female,UG,AI,8,1,Spanish,Neural Coding,Slot 4
+U01039,student,USA,UTC-5,Male,UG,Climate,1,1,Hindi,Neural Coding,Slot 2
+U01040,student,USA,UTC-5,Male,PhD,CS,2,0,Hindi,Neural Coding,Slot 3
+U01041,student,India,UTC+5:30,Male,Masters,CS,5,0,English,Neural Coding,Slot 5
+U01042,student,Germany,UTC+1,Non-binary,UG,AI,5,0,French,Neural Coding,Slot 1
+U01043,student,Brazil,UTC-3,Non-binary,Masters,Neuro,0,0,French,CV,Slot 5
+U01044,student,Germany,UTC+1,Non-binary,PhD,CS,9,0,English,Climate,Slot 1
+U01045,student,Germany,UTC+1,Non-binary,UG,Neuro,8,0,Spanish,Climate,Slot 1
+U01046,student,USA,UTC-5,Male,PhD,Climate,5,0,French,Time Series,Slot 5
+U01047,student,Brazil,UTC-3,Female,PhD,CS,3,0,Spanish,NLP,Slot 4
+U01048,student,Canada,UTC-5,Male,PhD,AI,4,0,Hindi,Neural Coding,Slot 3
+U01049,student,USA,UTC-5,Female,UG,AI,8,0,Hindi,NLP,Slot 3
+U01050,instructor,India,UTC+5:30,Male,Masters,Climate,7,0,English,RL,Slot 3
+U01051,student,Japan,UTC+9,Non-binary,PhD,Neuro,6,0,Hindi,CV,Slot 5
+U01052,ta,Canada,UTC-5,Female,Masters,AI,6,0,English,RL,Slot 3
+U01053,ta,Brazil,UTC-3,Male,PhD,Climate,8,0,English,RL,Slot 4
+U01054,student,USA,UTC-5,Male,UG,Climate,8,0,Hindi,Time Series,Slot 5
+U01055,student,USA,UTC-5,Non-binary,UG,CS,3,0,French,CV,Slot 3
+U01056,student,Germany,UTC+1,Non-binary,Masters,CS,0,0,Spanish,RL,Slot 4
+U01057,student,Kenya,UTC+3,Non-binary,PhD,Neuro,6,0,Hindi,NLP,Slot 4
+U01058,student,Canada,UTC-5,Female,PhD,Neuro,9,0,Spanish,RL,Slot 1
+U01059,student,USA,UTC-5,Female,Masters,Climate,3,0,Spanish,Time Series,Slot 2
+U01060,student,India,UTC+5:30,Male,PhD,CS,3,0,English,RL,Slot 1
+U01061,student,Brazil,UTC-3,Female,PhD,Neuro,0,1,Spanish,NLP,Slot 5
+U01062,student,USA,UTC-5,Male,PhD,Climate,3,0,Hindi,CV,Slot 3
+U01063,student,Japan,UTC+9,Female,PhD,Neuro,5,0,French,Climate,Slot 5
+U01064,instructor,India,UTC+5:30,Male,Masters,CS,2,0,Hindi,RL,Slot 3
+U01065,student,Canada,UTC-5,Female,Masters,CS,5,0,English,CV,Slot 5
+U01066,instructor,Kenya,UTC+3,Non-binary,UG,Climate,2,1,Hindi,CV,Slot 3
+U01067,student,Canada,UTC-5,Female,UG,Climate,9,1,Hindi,RL,Slot 5
+U01068,student,Brazil,UTC-3,Non-binary,UG,Climate,6,0,French,RL,Slot 5
+U01069,student,Canada,UTC-5,Non-binary,PhD,Neuro,8,0,French,NLP,Slot 1
+U01070,student,India,UTC+5:30,Non-binary,UG,AI,7,1,French,NLP,Slot 5
+U01071,ta,India,UTC+5:30,Non-binary,Masters,Climate,6,1,English,RL,Slot 3
+U01072,student,UK,UTC+0,Female,Masters,CS,7,0,Spanish,CV,Slot 2
+U01073,student,Kenya,UTC+3,Non-binary,UG,CS,4,0,French,Neural Coding,Slot 3
+U01074,student,Brazil,UTC-3,Male,PhD,Neuro,0,1,English,RL,Slot 4
+U01075,student,Canada,UTC-5,Female,UG,Climate,4,0,English,NLP,Slot 4
+U01076,student,Canada,UTC-5,Female,PhD,CS,1,0,Hindi,Neural Coding,Slot 2
+U01077,student,UK,UTC+0,Female,PhD,Neuro,4,0,Spanish,Climate,Slot 3
+U01078,student,UK,UTC+0,Female,UG,Climate,6,1,English,Climate,Slot 2
+U01079,student,Kenya,UTC+3,Female,UG,Neuro,5,0,Hindi,CV,Slot 5
+U01080,student,USA,UTC-5,Non-binary,PhD,CS,6,0,French,NLP,Slot 1
+U01081,student,Japan,UTC+9,Female,UG,Neuro,7,1,English,Time Series,Slot 3
+U01082,student,Kenya,UTC+3,Female,PhD,Neuro,9,1,Spanish,RL,Slot 4
+U01083,student,Kenya,UTC+3,Non-binary,PhD,Climate,9,0,Spanish,Neural Coding,Slot 5
+U01084,instructor,Brazil,UTC-3,Non-binary,Masters,AI,4,1,Hindi,NLP,Slot 5
+U01085,student,Canada,UTC-5,Non-binary,PhD,CS,1,0,Spanish,NLP,Slot 4
+U01086,student,Brazil,UTC-3,Male,UG,Neuro,0,0,Hindi,RL,Slot 3
+U01087,student,USA,UTC-5,Non-binary,UG,Climate,9,0,French,NLP,Slot 2
+U01088,student,Kenya,UTC+3,Non-binary,PhD,AI,1,0,Hindi,CV,Slot 1
+U01089,student,Brazil,UTC-3,Male,UG,AI,5,0,French,RL,Slot 4
+U01090,student,Canada,UTC-5,Female,PhD,CS,5,0,Spanish,CV,Slot 3
+U01091,student,Brazil,UTC-3,Male,Masters,Neuro,3,0,Spanish,Time Series,Slot 1
+U01092,student,Japan,UTC+9,Male,UG,CS,1,0,French,Climate,Slot 3
+U01093,student,USA,UTC-5,Female,Masters,CS,2,0,Hindi,Time Series,Slot 2
+U01094,student,Germany,UTC+1,Male,PhD,CS,8,0,French,RL,Slot 1
+U01095,student,Germany,UTC+1,Non-binary,UG,Neuro,8,0,French,Climate,Slot 4
+U01096,student,Germany,UTC+1,Female,UG,AI,1,1,English,CV,Slot 2
+U01097,ta,Kenya,UTC+3,Female,Masters,Neuro,9,0,English,RL,Slot 5
+U01098,student,UK,UTC+0,Non-binary,UG,Neuro,5,1,Hindi,RL,Slot 2
+U01099,student,Kenya,UTC+3,Male,Masters,Climate,7,0,French,NLP,Slot 1
+U01100,student,India,UTC+5:30,Non-binary,PhD,CS,8,0,Spanish,NLP,Slot 5
+U01101,student,Canada,UTC-5,Female,PhD,Neuro,3,1,English,Climate,Slot 2
+U01102,student,Japan,UTC+9,Female,UG,Climate,2,1,French,NLP,Slot 1
+U01103,student,Germany,UTC+1,Female,UG,AI,9,0,Hindi,Time Series,Slot 3
+U01104,student,Canada,UTC-5,Male,Masters,CS,5,0,Hindi,RL,Slot 4
+U01105,student,UK,UTC+0,Non-binary,Masters,CS,5,0,Spanish,Time Series,Slot 3
+U01106,ta,USA,UTC-5,Female,Masters,Neuro,4,1,Hindi,Time Series,Slot 1
+U01107,student,India,UTC+5:30,Non-binary,PhD,AI,3,0,Hindi,Time Series,Slot 2
+U01108,student,India,UTC+5:30,Female,UG,Neuro,9,1,French,Climate,Slot 1
+U01109,student,USA,UTC-5,Male,UG,AI,8,0,Hindi,NLP,Slot 4
+U01110,student,Japan,UTC+9,Non-binary,UG,Neuro,7,0,Spanish,Time Series,Slot 5
+U01111,student,UK,UTC+0,Female,UG,CS,3,0,Hindi,NLP,Slot 2
+U01112,student,Canada,UTC-5,Female,PhD,AI,8,0,English,Neural Coding,Slot 5
+U01113,student,Germany,UTC+1,Male,Masters,AI,1,0,French,Time Series,Slot 2
+U01114,student,India,UTC+5:30,Female,PhD,Climate,2,0,French,CV,Slot 1
+U01115,student,UK,UTC+0,Male,PhD,CS,1,0,English,Time Series,Slot 5
+U01116,student,Canada,UTC-5,Female,PhD,Climate,1,1,English,CV,Slot 2
+U01117,student,Germany,UTC+1,Female,Masters,Climate,7,0,Hindi,CV,Slot 4
+U01118,student,Germany,UTC+1,Non-binary,UG,Neuro,0,0,Spanish,RL,Slot 2
+U01119,instructor,Canada,UTC-5,Male,UG,Neuro,7,0,French,CV,Slot 5
+U01120,student,Japan,UTC+9,Male,Masters,Climate,8,0,English,Neural Coding,Slot 4
+U01121,student,Brazil,UTC-3,Female,PhD,Climate,6,0,Spanish,Time Series,Slot 4
+U01122,student,Canada,UTC-5,Non-binary,PhD,Neuro,5,1,English,Neural Coding,Slot 5
+U01123,student,India,UTC+5:30,Male,Masters,AI,4,0,Hindi,NLP,Slot 5
+U01124,ta,India,UTC+5:30,Male,Masters,Climate,5,0,French,RL,Slot 3
+U01125,student,Brazil,UTC-3,Non-binary,UG,AI,4,0,French,CV,Slot 5
+U01126,student,Japan,UTC+9,Female,Masters,AI,5,0,English,NLP,Slot 5
+U01127,student,Canada,UTC-5,Male,Masters,CS,3,0,French,Neural Coding,Slot 2
+U01128,student,Japan,UTC+9,Female,PhD,Neuro,5,0,Hindi,NLP,Slot 3
+U01129,student,Kenya,UTC+3,Non-binary,Masters,Climate,0,0,Spanish,NLP,Slot 4
+U01130,student,Brazil,UTC-3,Non-binary,PhD,Climate,1,0,English,CV,Slot 2
+U01131,ta,India,UTC+5:30,Male,UG,CS,4,0,Hindi,NLP,Slot 2
+U01132,student,Japan,UTC+9,Female,UG,Climate,9,1,English,RL,Slot 3
+U01133,student,Japan,UTC+9,Female,Masters,CS,2,1,Spanish,Neural Coding,Slot 3
+U01134,student,USA,UTC-5,Male,Masters,AI,2,1,Spanish,Time Series,Slot 5
+U01135,student,Kenya,UTC+3,Non-binary,PhD,AI,7,0,English,Climate,Slot 5
+U01136,student,Brazil,UTC-3,Female,UG,AI,9,1,Hindi,Time Series,Slot 1
+U01137,student,UK,UTC+0,Male,Masters,CS,6,0,Hindi,NLP,Slot 5
+U01138,student,USA,UTC-5,Female,UG,CS,4,0,English,RL,Slot 4
+U01139,student,Japan,UTC+9,Non-binary,Masters,CS,9,0,French,Neural Coding,Slot 5
+U01140,student,Japan,UTC+9,Female,PhD,AI,0,0,Spanish,Neural Coding,Slot 3
+U01141,student,UK,UTC+0,Male,PhD,CS,2,1,Hindi,Neural Coding,Slot 4
+U01142,student,Kenya,UTC+3,Male,UG,Climate,8,1,English,Neural Coding,Slot 2
+U01143,student,Brazil,UTC-3,Female,Masters,Neuro,0,0,Spanish,Neural Coding,Slot 3
+U01144,student,Japan,UTC+9,Female,PhD,Neuro,8,0,Spanish,NLP,Slot 1
+U01145,student,UK,UTC+0,Non-binary,UG,Climate,4,0,Hindi,RL,Slot 4
+U01146,student,Kenya,UTC+3,Non-binary,PhD,Climate,3,0,English,RL,Slot 3
+U01147,student,Brazil,UTC-3,Female,PhD,Climate,0,0,English,Neural Coding,Slot 5
+U01148,ta,UK,UTC+0,Female,PhD,AI,4,0,Spanish,RL,Slot 5
+U01149,student,USA,UTC-5,Female,Masters,Climate,5,0,English,RL,Slot 3
+U01150,student,Brazil,UTC-3,Male,PhD,Neuro,9,1,Spanish,Climate,Slot 4
+U01151,student,Kenya,UTC+3,Non-binary,UG,CS,2,0,English,Climate,Slot 1
+U01152,student,Canada,UTC-5,Female,UG,Climate,6,0,French,NLP,Slot 3
+U01153,student,USA,UTC-5,Non-binary,UG,CS,2,0,Hindi,CV,Slot 2
+U01154,student,Canada,UTC-5,Male,UG,Climate,7,0,French,NLP,Slot 5
+U01155,student,Japan,UTC+9,Non-binary,Masters,Neuro,0,0,French,CV,Slot 2
+U01156,student,Brazil,UTC-3,Male,PhD,Neuro,9,0,English,RL,Slot 5
+U01157,student,India,UTC+5:30,Male,Masters,CS,1,0,English,CV,Slot 4
+U01158,student,Japan,UTC+9,Non-binary,Masters,Climate,0,0,French,Climate,Slot 5
+U01159,student,UK,UTC+0,Non-binary,PhD,Climate,0,0,French,Neural Coding,Slot 2
+U01160,ta,Brazil,UTC-3,Male,UG,CS,6,0,English,Time Series,Slot 2
+U01161,student,India,UTC+5:30,Male,Masters,AI,6,0,Spanish,RL,Slot 5
+U01162,student,Germany,UTC+1,Male,Masters,Climate,2,0,Spanish,RL,Slot 4
+U01163,student,India,UTC+5:30,Male,UG,AI,4,0,Hindi,RL,Slot 4
+U01164,student,India,UTC+5:30,Female,PhD,AI,8,0,Spanish,NLP,Slot 5
+U01165,student,Canada,UTC-5,Male,Masters,CS,4,0,English,Time Series,Slot 4
+U01166,student,Canada,UTC-5,Female,PhD,Neuro,8,0,English,RL,Slot 4
+U01167,student,Japan,UTC+9,Non-binary,PhD,Climate,7,1,Spanish,Time Series,Slot 1
+U01168,student,India,UTC+5:30,Female,PhD,Neuro,8,0,English,NLP,Slot 4
+U01169,student,Japan,UTC+9,Male,Masters,Neuro,8,0,Hindi,Time Series,Slot 4
+U01170,student,India,UTC+5:30,Male,Masters,AI,2,1,Hindi,NLP,Slot 4
+U01171,ta,Germany,UTC+1,Non-binary,UG,Neuro,2,0,Hindi,CV,Slot 3
+U01172,student,Canada,UTC-5,Female,PhD,Neuro,8,1,Hindi,CV,Slot 5
+U01173,ta,Germany,UTC+1,Female,PhD,CS,1,0,Hindi,CV,Slot 2
+U01174,ta,Germany,UTC+1,Male,PhD,Climate,8,0,English,RL,Slot 4
+U01175,student,Kenya,UTC+3,Male,UG,CS,3,0,English,NLP,Slot 3
+U01176,student,UK,UTC+0,Non-binary,UG,AI,1,0,English,Neural Coding,Slot 3
+U01177,instructor,Canada,UTC-5,Male,PhD,AI,3,1,English,Climate,Slot 2
+U01178,student,Japan,UTC+9,Female,Masters,Neuro,2,0,English,Climate,Slot 3
+U01179,student,Brazil,UTC-3,Non-binary,PhD,CS,7,0,English,RL,Slot 4
+U01180,student,USA,UTC-5,Male,PhD,CS,3,0,English,Climate,Slot 1
+U01181,student,Brazil,UTC-3,Non-binary,UG,AI,1,0,French,CV,Slot 3
+U01182,student,Japan,UTC+9,Non-binary,Masters,CS,1,0,Spanish,Time Series,Slot 3
+U01183,student,UK,UTC+0,Male,UG,AI,8,0,Hindi,RL,Slot 1
+U01184,student,Germany,UTC+1,Female,Masters,Neuro,9,0,Spanish,Neural Coding,Slot 3
+U01185,student,UK,UTC+0,Non-binary,Masters,Neuro,6,0,Spanish,CV,Slot 5
+U01186,student,Canada,UTC-5,Male,UG,Climate,2,0,Hindi,RL,Slot 4
+U01187,student,UK,UTC+0,Male,Masters,AI,6,0,English,Time Series,Slot 5
+U01188,student,USA,UTC-5,Male,Masters,Neuro,5,0,Hindi,CV,Slot 4
+U01189,ta,India,UTC+5:30,Female,UG,AI,6,0,English,Time Series,Slot 5
+U01190,student,Kenya,UTC+3,Female,Masters,Neuro,9,1,French,NLP,Slot 1
+U01191,student,Kenya,UTC+3,Non-binary,PhD,AI,5,0,Hindi,RL,Slot 2
+U01192,student,Japan,UTC+9,Non-binary,Masters,Climate,5,0,Spanish,NLP,Slot 1
+U01193,student,India,UTC+5:30,Non-binary,Masters,Climate,8,0,Spanish,Climate,Slot 5
+U01194,student,Kenya,UTC+3,Male,UG,Neuro,9,0,French,Time Series,Slot 2
+U01195,student,India,UTC+5:30,Male,PhD,Neuro,0,0,Spanish,NLP,Slot 4
+U01196,student,USA,UTC-5,Non-binary,UG,Neuro,2,1,French,Time Series,Slot 5
+U01197,student,UK,UTC+0,Male,UG,CS,0,0,Hindi,NLP,Slot 5
+U01198,student,India,UTC+5:30,Female,Masters,AI,2,1,Spanish,NLP,Slot 3
+U01199,student,Kenya,UTC+3,Non-binary,PhD,AI,0,0,Hindi,Climate,Slot 2
+U01200,student,USA,UTC-5,Female,PhD,AI,4,0,French,RL,Slot 1
+U01201,student,Brazil,UTC-3,Non-binary,Masters,Climate,3,1,English,Neural Coding,Slot 1
+U01202,student,Canada,UTC-5,Male,Masters,AI,4,1,Hindi,Neural Coding,Slot 3
+U01203,student,Canada,UTC-5,Non-binary,PhD,Climate,6,1,French,Climate,Slot 4
+U01204,student,Canada,UTC-5,Female,PhD,Climate,9,0,Hindi,CV,Slot 2
+U01205,student,Brazil,UTC-3,Female,PhD,Climate,7,0,Spanish,Time Series,Slot 5
+U01206,student,USA,UTC-5,Non-binary,UG,Climate,5,0,Hindi,Neural Coding,Slot 2
+U01207,ta,UK,UTC+0,Male,PhD,Climate,4,0,English,Neural Coding,Slot 3
+U01208,ta,Kenya,UTC+3,Male,PhD,AI,5,0,English,NLP,Slot 3
+U01209,student,UK,UTC+0,Female,Masters,Climate,7,0,English,CV,Slot 2
+U01210,ta,Canada,UTC-5,Male,Masters,Neuro,7,0,Spanish,CV,Slot 4
+U01211,student,India,UTC+5:30,Male,PhD,Neuro,7,0,English,Neural Coding,Slot 4
+U01212,student,Japan,UTC+9,Non-binary,Masters,Climate,5,0,French,RL,Slot 4
+U01213,instructor,Brazil,UTC-3,Male,PhD,Climate,9,0,Hindi,Time Series,Slot 4
+U01214,student,Brazil,UTC-3,Non-binary,Masters,CS,0,1,Hindi,RL,Slot 2
+U01215,ta,Canada,UTC-5,Female,PhD,CS,4,0,Hindi,Time Series,Slot 3
+U01216,student,USA,UTC-5,Male,PhD,CS,4,0,French,Climate,Slot 1
+U01217,student,USA,UTC-5,Male,PhD,CS,7,0,Spanish,RL,Slot 5
+U01218,student,India,UTC+5:30,Male,PhD,AI,6,1,English,NLP,Slot 2
+U01219,student,Germany,UTC+1,Non-binary,PhD,Climate,2,1,English,Climate,Slot 5
+U01220,student,UK,UTC+0,Female,PhD,CS,9,0,Hindi,Neural Coding,Slot 3
+U01221,student,Canada,UTC-5,Male,Masters,CS,2,0,French,RL,Slot 3
+U01222,student,USA,UTC-5,Male,UG,AI,8,0,French,CV,Slot 2
+U01223,student,Kenya,UTC+3,Male,UG,Neuro,7,0,Hindi,Time Series,Slot 2
+U01224,student,India,UTC+5:30,Non-binary,Masters,AI,4,0,English,Time Series,Slot 1
+U01225,student,Kenya,UTC+3,Female,UG,Neuro,4,1,Spanish,RL,Slot 3
+U01226,student,Kenya,UTC+3,Female,UG,CS,0,0,Spanish,CV,Slot 5
+U01227,ta,Germany,UTC+1,Female,PhD,Climate,1,0,English,NLP,Slot 1
+U01228,ta,UK,UTC+0,Female,PhD,Climate,7,1,English,RL,Slot 1
+U01229,student,Canada,UTC-5,Non-binary,UG,CS,4,0,French,Climate,Slot 5
+U01230,student,USA,UTC-5,Male,PhD,AI,8,0,French,Climate,Slot 4
+U01231,student,Japan,UTC+9,Male,PhD,AI,2,0,Spanish,NLP,Slot 5
+U01232,student,Brazil,UTC-3,Male,PhD,Climate,0,0,Hindi,Neural Coding,Slot 1
+U01233,student,Japan,UTC+9,Non-binary,Masters,AI,5,0,English,Neural Coding,Slot 4
+U01234,student,Kenya,UTC+3,Non-binary,Masters,Climate,1,0,French,Time Series,Slot 2
+U01235,student,Kenya,UTC+3,Male,UG,CS,6,0,French,Neural Coding,Slot 4
+U01236,student,USA,UTC-5,Male,PhD,Neuro,7,1,Hindi,CV,Slot 5
+U01237,instructor,UK,UTC+0,Non-binary,Masters,Neuro,2,0,Hindi,NLP,Slot 2
+U01238,instructor,UK,UTC+0,Female,UG,Climate,1,0,French,Neural Coding,Slot 2
+U01239,student,India,UTC+5:30,Non-binary,Masters,CS,3,0,English,Time Series,Slot 2
+U01240,student,Canada,UTC-5,Non-binary,PhD,Climate,7,0,Hindi,Climate,Slot 1
+U01241,student,USA,UTC-5,Non-binary,UG,Climate,7,0,English,NLP,Slot 4
+U01242,ta,UK,UTC+0,Female,UG,CS,3,1,English,RL,Slot 3
+U01243,ta,Germany,UTC+1,Female,UG,AI,6,0,English,NLP,Slot 3
+U01244,instructor,Germany,UTC+1,Male,PhD,Neuro,7,0,Spanish,CV,Slot 4
+U01245,student,UK,UTC+0,Male,Masters,Climate,7,1,Spanish,Neural Coding,Slot 2
+U01246,student,Canada,UTC-5,Male,Masters,Climate,2,0,Spanish,Climate,Slot 2
+U01247,ta,Brazil,UTC-3,Male,PhD,AI,6,0,English,CV,Slot 3
+U01248,ta,Germany,UTC+1,Non-binary,PhD,Neuro,4,0,Spanish,Time Series,Slot 1
+U01249,student,Kenya,UTC+3,Non-binary,PhD,Climate,6,0,English,RL,Slot 1
+U01250,student,UK,UTC+0,Female,Masters,Neuro,0,1,English,Time Series,Slot 5
+U01251,ta,Japan,UTC+9,Female,Masters,CS,2,0,Spanish,Neural Coding,Slot 3
+U01252,student,Canada,UTC-5,Non-binary,Masters,Neuro,6,0,English,RL,Slot 2
+U01253,student,UK,UTC+0,Male,PhD,CS,3,0,Spanish,Time Series,Slot 4
+U01254,ta,USA,UTC-5,Male,UG,AI,3,0,French,NLP,Slot 1
+U01255,student,USA,UTC-5,Male,Masters,Climate,4,0,English,Climate,Slot 3
+U01256,instructor,Kenya,UTC+3,Male,UG,Climate,7,0,Spanish,NLP,Slot 1
+U01257,student,UK,UTC+0,Non-binary,UG,CS,7,0,Hindi,Neural Coding,Slot 4
+U01258,student,USA,UTC-5,Male,UG,CS,9,0,Hindi,NLP,Slot 1
+U01259,student,Brazil,UTC-3,Male,Masters,CS,3,0,French,Climate,Slot 4
+U01260,student,USA,UTC-5,Male,PhD,CS,1,0,English,NLP,Slot 4
+U01261,ta,Canada,UTC-5,Male,PhD,Climate,7,0,Spanish,Climate,Slot 5
+U01262,student,India,UTC+5:30,Female,Masters,Climate,6,0,Hindi,Climate,Slot 5
+U01263,student,USA,UTC-5,Female,PhD,CS,4,0,Hindi,Climate,Slot 3
+U01264,student,Germany,UTC+1,Male,UG,CS,7,0,English,Climate,Slot 2
+U01265,student,Brazil,UTC-3,Non-binary,PhD,Neuro,6,0,French,RL,Slot 4
+U01266,student,Japan,UTC+9,Male,UG,AI,9,1,English,Neural Coding,Slot 2
+U01267,student,Kenya,UTC+3,Non-binary,Masters,Neuro,7,0,French,Climate,Slot 5
+U01268,student,Brazil,UTC-3,Male,Masters,Neuro,8,0,French,NLP,Slot 3
+U01269,student,India,UTC+5:30,Non-binary,PhD,AI,7,0,English,CV,Slot 5
+U01270,student,India,UTC+5:30,Female,Masters,AI,6,1,Spanish,Time Series,Slot 2
+U01271,instructor,USA,UTC-5,Female,UG,Climate,8,1,Hindi,Climate,Slot 3
+U01272,student,UK,UTC+0,Non-binary,Masters,Climate,4,0,French,CV,Slot 1
+U01273,student,Japan,UTC+9,Male,Masters,AI,5,1,English,Time Series,Slot 2
+U01274,student,Germany,UTC+1,Female,PhD,AI,2,0,Spanish,RL,Slot 3
+U01275,student,Canada,UTC-5,Male,Masters,AI,6,0,English,NLP,Slot 1
+U01276,student,USA,UTC-5,Female,UG,CS,7,0,Spanish,NLP,Slot 4
+U01277,instructor,Germany,UTC+1,Non-binary,PhD,Neuro,4,0,English,Neural Coding,Slot 2
+U01278,student,Germany,UTC+1,Female,UG,AI,9,1,French,Time Series,Slot 2
+U01279,student,UK,UTC+0,Non-binary,UG,AI,6,1,Spanish,Neural Coding,Slot 2
+U01280,student,Kenya,UTC+3,Male,UG,AI,5,0,Hindi,Time Series,Slot 1
+U01281,ta,UK,UTC+0,Male,Masters,Climate,4,0,Spanish,NLP,Slot 3
+U01282,student,Brazil,UTC-3,Non-binary,PhD,Climate,5,1,English,Neural Coding,Slot 2
+U01283,student,Brazil,UTC-3,Male,UG,Climate,5,1,French,NLP,Slot 5
+U01284,student,Canada,UTC-5,Non-binary,UG,CS,8,0,Spanish,Climate,Slot 3
+U01285,student,Brazil,UTC-3,Female,UG,CS,9,0,French,CV,Slot 5
+U01286,student,Japan,UTC+9,Male,PhD,CS,0,0,Hindi,Time Series,Slot 5
+U01287,student,USA,UTC-5,Male,PhD,Climate,4,0,French,RL,Slot 5
+U01288,student,Japan,UTC+9,Male,Masters,Neuro,8,0,Hindi,Time Series,Slot 4
+U01289,student,Japan,UTC+9,Female,PhD,Climate,3,0,English,CV,Slot 2
+U01290,student,Germany,UTC+1,Female,UG,Climate,9,0,Spanish,NLP,Slot 4
+U01291,student,Canada,UTC-5,Non-binary,UG,Neuro,0,0,French,Climate,Slot 1
+U01292,student,Brazil,UTC-3,Male,Masters,Climate,0,0,French,CV,Slot 5
+U01293,student,India,UTC+5:30,Female,PhD,Neuro,6,0,Hindi,RL,Slot 4
+U01294,student,Canada,UTC-5,Female,Masters,Climate,9,0,French,NLP,Slot 4
+U01295,student,India,UTC+5:30,Male,Masters,AI,4,0,French,Time Series,Slot 1
+U01296,student,UK,UTC+0,Male,Masters,CS,6,0,French,CV,Slot 1
+U01297,student,USA,UTC-5,Male,Masters,CS,0,0,Spanish,NLP,Slot 2
+U01298,ta,UK,UTC+0,Female,Masters,Neuro,1,0,Spanish,Time Series,Slot 5
+U01299,student,Brazil,UTC-3,Non-binary,PhD,Neuro,4,0,English,NLP,Slot 3
+U01300,student,UK,UTC+0,Female,Masters,CS,0,0,Hindi,Time Series,Slot 5
+U01301,student,Brazil,UTC-3,Female,UG,AI,8,0,Spanish,RL,Slot 2
+U01302,student,Japan,UTC+9,Non-binary,Masters,Neuro,4,0,English,NLP,Slot 2
+U01303,student,Canada,UTC-5,Non-binary,Masters,AI,0,1,Hindi,RL,Slot 5
+U01304,ta,India,UTC+5:30,Female,UG,AI,0,0,French,Time Series,Slot 1
+U01305,student,Japan,UTC+9,Non-binary,Masters,Neuro,8,0,Spanish,RL,Slot 4
+U01306,student,Canada,UTC-5,Non-binary,PhD,Neuro,8,0,French,Climate,Slot 1
+U01307,student,India,UTC+5:30,Male,UG,Neuro,0,0,Hindi,RL,Slot 2
+U01308,student,Canada,UTC-5,Male,PhD,Climate,2,0,Spanish,RL,Slot 1
+U01309,student,UK,UTC+0,Non-binary,Masters,Neuro,0,0,English,CV,Slot 1
+U01310,student,Brazil,UTC-3,Male,PhD,Climate,4,0,English,CV,Slot 2
+U01311,ta,USA,UTC-5,Female,Masters,AI,5,0,Spanish,NLP,Slot 5
+U01312,student,USA,UTC-5,Female,UG,Neuro,2,0,English,CV,Slot 3
+U01313,student,Canada,UTC-5,Female,UG,CS,2,0,Spanish,Climate,Slot 4
+U01314,student,Japan,UTC+9,Non-binary,UG,Climate,4,1,Spanish,CV,Slot 2
+U01315,student,Kenya,UTC+3,Female,PhD,Climate,2,0,Spanish,Climate,Slot 5
+U01316,student,Kenya,UTC+3,Non-binary,UG,Climate,5,0,French,CV,Slot 1
+U01317,student,Brazil,UTC-3,Female,UG,Climate,1,0,Spanish,Climate,Slot 3
+U01318,student,Japan,UTC+9,Female,Masters,CS,3,0,English,NLP,Slot 4
+U01319,student,UK,UTC+0,Non-binary,PhD,Neuro,3,1,Hindi,Climate,Slot 2
+U01320,student,Canada,UTC-5,Male,UG,Climate,0,0,Hindi,RL,Slot 2
+U01321,student,USA,UTC-5,Female,PhD,CS,2,0,Spanish,CV,Slot 3
+U01322,student,Kenya,UTC+3,Non-binary,UG,AI,7,0,Hindi,RL,Slot 5
+U01323,student,USA,UTC-5,Female,UG,CS,9,0,French,RL,Slot 4
+U01324,student,Brazil,UTC-3,Female,UG,CS,7,1,Hindi,Neural Coding,Slot 1
+U01325,student,Japan,UTC+9,Female,Masters,Climate,5,0,Spanish,RL,Slot 1
+U01326,student,India,UTC+5:30,Female,UG,AI,7,0,French,Time Series,Slot 4
+U01327,student,Japan,UTC+9,Female,UG,CS,8,1,Spanish,Time Series,Slot 4
+U01328,student,Brazil,UTC-3,Female,Masters,AI,7,0,Spanish,Neural Coding,Slot 5
+U01329,student,USA,UTC-5,Male,Masters,CS,9,0,Hindi,CV,Slot 1
+U01330,student,India,UTC+5:30,Non-binary,Masters,AI,2,1,Hindi,NLP,Slot 2
+U01331,student,Germany,UTC+1,Non-binary,UG,AI,9,1,Hindi,Time Series,Slot 1
+U01332,student,USA,UTC-5,Female,PhD,Neuro,2,0,Hindi,Neural Coding,Slot 5
+U01333,student,India,UTC+5:30,Male,Masters,AI,9,0,Spanish,NLP,Slot 2
+U01334,ta,Germany,UTC+1,Male,UG,Climate,1,1,English,Neural Coding,Slot 3
+U01335,ta,Germany,UTC+1,Non-binary,PhD,CS,6,0,Spanish,Neural Coding,Slot 2
+U01336,student,Brazil,UTC-3,Male,Masters,CS,5,0,French,NLP,Slot 5
+U01337,student,Germany,UTC+1,Non-binary,UG,Climate,9,0,Hindi,Neural Coding,Slot 2
+U01338,ta,Germany,UTC+1,Male,Masters,Neuro,3,0,Spanish,Neural Coding,Slot 4
+U01339,student,UK,UTC+0,Male,Masters,AI,0,0,Hindi,CV,Slot 1
+U01340,student,Kenya,UTC+3,Non-binary,PhD,Neuro,9,0,English,Neural Coding,Slot 2
+U01341,student,Canada,UTC-5,Female,PhD,Climate,8,0,English,Time Series,Slot 5
+U01342,student,Brazil,UTC-3,Female,UG,Neuro,4,0,Hindi,Time Series,Slot 2
+U01343,student,UK,UTC+0,Male,PhD,Neuro,6,0,Hindi,Neural Coding,Slot 3
+U01344,ta,India,UTC+5:30,Non-binary,PhD,Climate,2,0,Hindi,Climate,Slot 2
+U01345,student,India,UTC+5:30,Male,UG,CS,2,0,French,CV,Slot 4
+U01346,student,Germany,UTC+1,Non-binary,UG,CS,3,0,Spanish,NLP,Slot 4
+U01347,student,Kenya,UTC+3,Male,UG,Climate,4,0,Spanish,Time Series,Slot 1
+U01348,student,Germany,UTC+1,Non-binary,PhD,Climate,4,0,French,CV,Slot 3
+U01349,instructor,UK,UTC+0,Non-binary,UG,Climate,4,0,French,Neural Coding,Slot 2
+U01350,student,UK,UTC+0,Female,UG,AI,0,0,English,Time Series,Slot 2
+U01351,student,Germany,UTC+1,Non-binary,Masters,Neuro,6,0,Spanish,RL,Slot 1
+U01352,student,USA,UTC-5,Female,UG,AI,5,0,English,Time Series,Slot 2
+U01353,student,Germany,UTC+1,Male,UG,AI,6,1,Spanish,CV,Slot 5
+U01354,student,USA,UTC-5,Female,PhD,Climate,1,0,French,CV,Slot 2
+U01355,student,Germany,UTC+1,Female,UG,AI,0,0,French,NLP,Slot 5
+U01356,student,Japan,UTC+9,Non-binary,UG,Neuro,0,0,Hindi,Neural Coding,Slot 3
+U01357,student,Canada,UTC-5,Female,UG,Climate,5,1,Hindi,RL,Slot 5
+U01358,student,Canada,UTC-5,Male,Masters,CS,5,0,Hindi,RL,Slot 1
+U01359,student,Kenya,UTC+3,Non-binary,PhD,AI,7,0,Spanish,NLP,Slot 4
+U01360,student,Japan,UTC+9,Female,Masters,Neuro,5,0,Hindi,Climate,Slot 5
+U01361,student,Japan,UTC+9,Male,Masters,AI,0,0,Hindi,CV,Slot 2
+U01362,ta,Germany,UTC+1,Male,UG,Neuro,2,0,Hindi,RL,Slot 4
+U01363,student,Canada,UTC-5,Non-binary,Masters,Climate,5,0,Hindi,NLP,Slot 5
+U01364,student,USA,UTC-5,Female,UG,CS,4,0,Hindi,Climate,Slot 2
+U01365,student,Germany,UTC+1,Female,Masters,Neuro,4,1,Hindi,Time Series,Slot 3
+U01366,student,India,UTC+5:30,Non-binary,Masters,Climate,8,0,Spanish,CV,Slot 4
+U01367,ta,India,UTC+5:30,Female,PhD,CS,9,0,Spanish,NLP,Slot 5
+U01368,student,Japan,UTC+9,Non-binary,UG,Neuro,1,1,Spanish,Climate,Slot 5
+U01369,student,Brazil,UTC-3,Male,UG,CS,6,0,Hindi,RL,Slot 5
+U01370,student,USA,UTC-5,Non-binary,UG,Climate,2,0,Spanish,RL,Slot 3
+U01371,student,Kenya,UTC+3,Non-binary,PhD,Climate,2,0,French,Time Series,Slot 4
+U01372,student,USA,UTC-5,Male,PhD,Neuro,3,0,Spanish,NLP,Slot 2
+U01373,ta,Canada,UTC-5,Non-binary,Masters,CS,7,0,Spanish,RL,Slot 1
+U01374,student,USA,UTC-5,Male,PhD,Climate,6,0,Hindi,Time Series,Slot 3
+U01375,student,Canada,UTC-5,Male,UG,Neuro,3,0,Spanish,Time Series,Slot 2
+U01376,student,Germany,UTC+1,Female,UG,CS,4,0,Hindi,Climate,Slot 2
+U01377,student,Brazil,UTC-3,Male,UG,AI,3,0,Spanish,NLP,Slot 4
+U01378,student,Japan,UTC+9,Non-binary,PhD,CS,3,0,Spanish,Neural Coding,Slot 3
+U01379,student,USA,UTC-5,Female,UG,Neuro,1,0,English,NLP,Slot 1
+U01380,student,Germany,UTC+1,Female,Masters,CS,7,1,English,Neural Coding,Slot 3
+U01381,student,India,UTC+5:30,Non-binary,PhD,CS,6,0,English,CV,Slot 5
+U01382,ta,India,UTC+5:30,Female,PhD,Neuro,7,0,Hindi,RL,Slot 3
+U01383,student,Canada,UTC-5,Female,Masters,Neuro,8,0,French,CV,Slot 3
+U01384,student,Canada,UTC-5,Female,PhD,CS,5,0,French,NLP,Slot 1
+U01385,student,India,UTC+5:30,Female,PhD,Climate,6,0,Spanish,Neural Coding,Slot 5
+U01386,student,USA,UTC-5,Non-binary,Masters,AI,6,1,French,RL,Slot 5
+U01387,student,Japan,UTC+9,Non-binary,Masters,AI,9,0,English,Time Series,Slot 3
+U01388,student,India,UTC+5:30,Non-binary,Masters,CS,6,0,French,Time Series,Slot 4
+U01389,student,Germany,UTC+1,Non-binary,Masters,Climate,7,0,English,NLP,Slot 4
+U01390,student,Japan,UTC+9,Non-binary,PhD,CS,9,0,Hindi,NLP,Slot 5
+U01391,student,Germany,UTC+1,Non-binary,UG,CS,2,1,Spanish,RL,Slot 1
+U01392,student,Kenya,UTC+3,Non-binary,PhD,Climate,3,0,Spanish,RL,Slot 1
+U01393,student,Japan,UTC+9,Non-binary,PhD,AI,2,0,Spanish,CV,Slot 2
+U01394,student,USA,UTC-5,Male,Masters,CS,5,0,Spanish,NLP,Slot 4
+U01395,student,Kenya,UTC+3,Male,PhD,Neuro,5,0,Hindi,Time Series,Slot 1
+U01396,student,Brazil,UTC-3,Non-binary,PhD,Climate,9,0,English,Time Series,Slot 3
+U01397,student,Germany,UTC+1,Non-binary,PhD,CS,6,0,French,RL,Slot 4
+U01398,student,Canada,UTC-5,Male,UG,Neuro,8,0,English,NLP,Slot 1
+U01399,student,USA,UTC-5,Male,Masters,AI,4,0,English,Climate,Slot 3
+U01400,student,Brazil,UTC-3,Female,Masters,CS,8,0,French,Neural Coding,Slot 5
+U01401,student,Germany,UTC+1,Female,Masters,Neuro,8,0,French,Time Series,Slot 2
+U01402,student,Germany,UTC+1,Male,Masters,CS,9,0,Hindi,NLP,Slot 2
+U01403,student,Kenya,UTC+3,Male,Masters,Climate,8,0,Spanish,Climate,Slot 3
+U01404,student,Brazil,UTC-3,Non-binary,PhD,CS,1,0,French,NLP,Slot 5
+U01405,student,USA,UTC-5,Female,PhD,Climate,4,1,Spanish,RL,Slot 3
+U01406,instructor,Canada,UTC-5,Male,Masters,AI,6,0,Spanish,Time Series,Slot 2
+U01407,student,India,UTC+5:30,Male,Masters,Climate,1,1,French,Time Series,Slot 2
+U01408,student,India,UTC+5:30,Non-binary,Masters,Neuro,5,0,Hindi,Time Series,Slot 4
+U01409,student,UK,UTC+0,Female,Masters,CS,2,0,French,NLP,Slot 2
+U01410,student,Canada,UTC-5,Male,UG,Neuro,9,1,English,Time Series,Slot 3
+U01411,student,Japan,UTC+9,Non-binary,UG,AI,9,0,Hindi,Time Series,Slot 4
+U01412,student,Kenya,UTC+3,Male,UG,AI,6,0,Spanish,Time Series,Slot 1
+U01413,student,UK,UTC+0,Non-binary,PhD,CS,7,1,Spanish,RL,Slot 4
+U01414,student,Brazil,UTC-3,Male,UG,Neuro,7,0,Hindi,CV,Slot 1
+U01415,student,USA,UTC-5,Non-binary,PhD,Neuro,0,0,Hindi,CV,Slot 4
+U01416,student,Germany,UTC+1,Male,UG,AI,3,1,Hindi,RL,Slot 3
+U01417,ta,Brazil,UTC-3,Non-binary,PhD,Climate,3,0,English,RL,Slot 4
+U01418,student,Kenya,UTC+3,Non-binary,PhD,Climate,4,0,French,Neural Coding,Slot 1
+U01419,student,USA,UTC-5,Male,UG,Climate,9,0,Spanish,Neural Coding,Slot 5
+U01420,ta,Japan,UTC+9,Female,PhD,CS,4,0,Spanish,RL,Slot 4
+U01421,student,Canada,UTC-5,Female,PhD,AI,3,0,English,NLP,Slot 1
+U01422,student,Brazil,UTC-3,Female,PhD,CS,4,0,Hindi,Climate,Slot 5
+U01423,student,Japan,UTC+9,Male,PhD,CS,3,0,Spanish,Time Series,Slot 1
+U01424,student,Brazil,UTC-3,Non-binary,PhD,AI,1,0,English,Climate,Slot 4
+U01425,student,UK,UTC+0,Male,UG,AI,4,1,Spanish,Time Series,Slot 2
+U01426,student,USA,UTC-5,Non-binary,Masters,CS,2,0,English,Neural Coding,Slot 5
+U01427,student,Kenya,UTC+3,Female,PhD,AI,5,0,Hindi,Time Series,Slot 1
+U01428,ta,Germany,UTC+1,Female,UG,Neuro,3,0,Hindi,CV,Slot 5
+U01429,student,Japan,UTC+9,Non-binary,Masters,Neuro,2,0,Spanish,Time Series,Slot 1
+U01430,student,India,UTC+5:30,Male,UG,AI,8,0,Spanish,NLP,Slot 2
+U01431,student,Brazil,UTC-3,Non-binary,PhD,AI,1,0,French,NLP,Slot 2
+U01432,student,Canada,UTC-5,Male,PhD,Neuro,4,0,French,RL,Slot 2
+U01433,student,Canada,UTC-5,Female,UG,Neuro,1,0,Hindi,Time Series,Slot 2
+U01434,student,Germany,UTC+1,Male,PhD,Neuro,6,0,Spanish,Time Series,Slot 3
+U01435,student,Brazil,UTC-3,Female,UG,Neuro,2,0,Hindi,RL,Slot 1
+U01436,ta,Germany,UTC+1,Male,Masters,CS,2,1,English,Time Series,Slot 5
+U01437,student,Canada,UTC-5,Male,Masters,CS,3,0,French,NLP,Slot 3
+U01438,student,Brazil,UTC-3,Male,Masters,CS,7,0,English,RL,Slot 2
+U01439,ta,Canada,UTC-5,Male,UG,AI,6,1,French,Climate,Slot 4
+U01440,student,USA,UTC-5,Non-binary,Masters,Neuro,0,0,French,Climate,Slot 1
+U01441,student,India,UTC+5:30,Male,Masters,Climate,6,0,Spanish,NLP,Slot 5
+U01442,student,Canada,UTC-5,Female,PhD,AI,0,1,French,Neural Coding,Slot 5
+U01443,instructor,Brazil,UTC-3,Non-binary,UG,AI,0,0,Hindi,Climate,Slot 3
+U01444,student,India,UTC+5:30,Non-binary,PhD,Neuro,6,0,Spanish,Time Series,Slot 5
+U01445,ta,Canada,UTC-5,Non-binary,Masters,AI,2,0,Hindi,NLP,Slot 4
+U01446,instructor,Kenya,UTC+3,Female,Masters,AI,2,0,French,Time Series,Slot 1
+U01447,student,Kenya,UTC+3,Female,Masters,CS,0,1,English,Neural Coding,Slot 2
+U01448,student,USA,UTC-5,Male,PhD,CS,1,0,English,Time Series,Slot 3
+U01449,student,Japan,UTC+9,Male,Masters,AI,5,0,Hindi,RL,Slot 5
+U01450,student,USA,UTC-5,Female,UG,AI,9,0,English,Time Series,Slot 4
+U01451,student,UK,UTC+0,Male,PhD,CS,7,0,Hindi,CV,Slot 5
+U01452,student,Germany,UTC+1,Male,UG,Neuro,4,0,Spanish,Climate,Slot 3
+U01453,student,India,UTC+5:30,Female,Masters,Climate,8,1,Spanish,NLP,Slot 1
+U01454,student,UK,UTC+0,Non-binary,UG,CS,8,1,French,NLP,Slot 4
+U01455,student,Kenya,UTC+3,Female,UG,CS,8,1,Hindi,CV,Slot 3
+U01456,student,India,UTC+5:30,Female,PhD,Climate,9,0,English,NLP,Slot 1
+U01457,student,Japan,UTC+9,Female,Masters,Neuro,1,1,English,Neural Coding,Slot 3
+U01458,student,Brazil,UTC-3,Female,Masters,CS,1,0,English,RL,Slot 4
+U01459,student,Germany,UTC+1,Male,PhD,AI,7,0,Hindi,Neural Coding,Slot 4
+U01460,student,India,UTC+5:30,Male,PhD,Neuro,8,1,Spanish,RL,Slot 4
+U01461,student,UK,UTC+0,Female,Masters,Climate,4,0,Spanish,Climate,Slot 3
+U01462,student,USA,UTC-5,Female,PhD,Climate,7,0,Spanish,CV,Slot 3
+U01463,student,Canada,UTC-5,Male,Masters,AI,4,0,English,CV,Slot 3
+U01464,student,India,UTC+5:30,Male,Masters,Climate,9,0,French,Neural Coding,Slot 2
+U01465,student,Germany,UTC+1,Female,PhD,Neuro,3,1,English,RL,Slot 4
+U01466,student,Japan,UTC+9,Non-binary,PhD,AI,3,0,French,RL,Slot 5
+U01467,student,Canada,UTC-5,Male,UG,CS,3,0,English,CV,Slot 2
+U01468,student,UK,UTC+0,Non-binary,UG,AI,6,0,English,Time Series,Slot 3
+U01469,student,Canada,UTC-5,Non-binary,PhD,CS,4,0,Hindi,RL,Slot 3
+U01470,student,Kenya,UTC+3,Female,UG,Climate,6,0,Spanish,Climate,Slot 2
+U01471,student,Brazil,UTC-3,Male,Masters,CS,0,0,French,Time Series,Slot 2
+U01472,student,Canada,UTC-5,Male,Masters,CS,6,0,Spanish,CV,Slot 5
+U01473,student,Brazil,UTC-3,Male,UG,AI,0,1,Hindi,Neural Coding,Slot 3
+U01474,ta,Germany,UTC+1,Male,Masters,CS,1,0,Spanish,Neural Coding,Slot 1
+U01475,ta,Canada,UTC-5,Female,PhD,Neuro,6,0,Spanish,CV,Slot 3
+U01476,student,Canada,UTC-5,Female,UG,Climate,0,0,English,NLP,Slot 1
+U01477,student,Kenya,UTC+3,Female,Masters,Neuro,2,0,Hindi,CV,Slot 3
+U01478,student,India,UTC+5:30,Male,UG,CS,7,1,English,Time Series,Slot 3
+U01479,student,Germany,UTC+1,Female,Masters,Neuro,4,0,English,RL,Slot 2
+U01480,student,Kenya,UTC+3,Female,Masters,Neuro,8,0,French,Neural Coding,Slot 1
+U01481,student,India,UTC+5:30,Non-binary,PhD,AI,4,0,French,NLP,Slot 3
+U01482,student,UK,UTC+0,Male,PhD,Neuro,6,0,Spanish,Climate,Slot 4
+U01483,student,USA,UTC-5,Male,UG,CS,6,1,English,Climate,Slot 2
+U01484,student,Germany,UTC+1,Non-binary,Masters,CS,5,1,English,Climate,Slot 5
+U01485,instructor,UK,UTC+0,Female,PhD,Climate,2,1,Spanish,Climate,Slot 2
+U01486,student,India,UTC+5:30,Male,UG,Climate,0,0,French,Climate,Slot 3
+U01487,student,UK,UTC+0,Female,PhD,CS,5,0,Hindi,Neural Coding,Slot 4
+U01488,student,Canada,UTC-5,Non-binary,PhD,CS,0,0,Spanish,Climate,Slot 3
+U01489,student,Brazil,UTC-3,Female,UG,CS,3,0,Spanish,Time Series,Slot 4
+U01490,student,Japan,UTC+9,Non-binary,PhD,CS,3,0,Spanish,RL,Slot 5
+U01491,instructor,Canada,UTC-5,Non-binary,Masters,Climate,8,0,French,CV,Slot 2
+U01492,student,India,UTC+5:30,Male,PhD,AI,4,0,English,Climate,Slot 4
+U01493,student,Kenya,UTC+3,Female,UG,Neuro,7,0,French,Climate,Slot 1
+U01494,instructor,Brazil,UTC-3,Male,UG,AI,2,0,French,Neural Coding,Slot 2
+U01495,student,Kenya,UTC+3,Male,Masters,CS,8,0,Spanish,CV,Slot 5
+U01496,student,USA,UTC-5,Male,PhD,Neuro,6,1,French,NLP,Slot 1
+U01497,student,Kenya,UTC+3,Non-binary,UG,Climate,6,0,French,NLP,Slot 1
+U01498,student,India,UTC+5:30,Female,UG,Neuro,5,0,Spanish,NLP,Slot 1
+U01499,student,USA,UTC-5,Non-binary,PhD,Climate,5,0,French,Time Series,Slot 5
+U01500,student,Germany,UTC+1,Female,UG,Neuro,9,0,French,CV,Slot 5

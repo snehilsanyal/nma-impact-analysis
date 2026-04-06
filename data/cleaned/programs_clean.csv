@@ -1,0 +1,9 @@
+program_id,program_name,year,start_date,end_date,num_students,num_tas,region_focus,curriculum_hours_per_day,project_hours_per_day,total_hours_per_day,days_per_week,delivery_mode,num_timeslots
+P001,Computational Neuroscience,2025,2025-06-22,2025-07-24,363,18,global,4.5,3,8,5,virtual,5
+P002,Deep Learning,2025,2025-06-22,2025-07-24,206,23,global,4.5,3,8,5,virtual,5
+P003,Computational Tools for Climate Science,2025,2025-06-22,2025-07-24,262,22,global,4.5,3,8,5,virtual,5
+P004,NeuroAI,2025,2025-06-22,2025-07-24,235,18,global,4.5,3,8,5,virtual,5
+P005,Computational Neuroscience,2026,2026-06-22,2026-07-24,373,17,global,4.5,3,8,5,virtual,5
+P006,Deep Learning,2026,2026-06-22,2026-07-24,351,28,global,4.5,3,8,5,virtual,5
+P007,Computational Tools for Climate Science,2026,2026-06-22,2026-07-24,208,15,global,4.5,3,8,5,virtual,5
+P008,NeuroAI,2026,2026-06-22,2026-07-24,223,21,global,4.5,3,8,5,virtual,5

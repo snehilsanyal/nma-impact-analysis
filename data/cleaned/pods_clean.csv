@@ -1,0 +1,31 @@
+pod_id,program_id,year,regular_ta_user_id,timeslot,language,interest_cluster,num_students,region_mix_score
+PD0001,P001,2026,U00979,Slot 4,Spanish,Climate,15,0.96
+PD0002,P001,2026,U00750,Slot 3,Hindi,Climate,15,0.62
+PD0003,P001,2026,U00456,Slot 4,English,Time Series,11,0.72
+PD0004,P002,2026,U01248,Slot 2,English,Time Series,15,0.92
+PD0005,P002,2026,U00801,Slot 4,Hindi,NLP,15,0.91
+PD0006,P002,2026,U00488,Slot 1,Spanish,NLP,15,0.82
+PD0007,P002,2026,U00704,Slot 1,Spanish,Time Series,6,0.59
+PD0008,P003,2026,U00779,Slot 3,French,Time Series,15,0.79
+PD0009,P003,2026,U00423,Slot 3,Hindi,Neural Coding,15,0.45
+PD0010,P003,2026,U00550,Slot 3,English,CV,7,0.92
+PD0011,P004,2026,U00456,Slot 5,Spanish,NLP,15,0.96
+PD0012,P004,2026,U00491,Slot 4,French,Neural Coding,15,0.69
+PD0013,P004,2026,U00205,Slot 3,English,RL,15,0.46
+PD0014,P004,2026,U00550,Slot 1,Spanish,NLP,9,0.82
+PD0015,P005,2026,U00456,Slot 4,Hindi,Neural Coding,15,0.62
+PD0016,P005,2026,U00432,Slot 3,French,Climate,15,0.98
+PD0017,P005,2026,U00978,Slot 3,Spanish,Climate,4,0.76
+PD0018,P006,2026,U01474,Slot 2,Hindi,Time Series,15,0.59
+PD0019,P006,2026,U01227,Slot 1,Hindi,Climate,15,0.51
+PD0020,P006,2026,U00933,Slot 4,English,Neural Coding,15,0.42
+PD0021,P006,2026,U01445,Slot 1,French,Time Series,15,0.86
+PD0022,P006,2026,U00550,Slot 1,French,Climate,1,0.94
+PD0023,P007,2026,U00794,Slot 3,Hindi,RL,15,0.81
+PD0024,P007,2026,U01160,Slot 2,Spanish,Climate,15,0.53
+PD0025,P007,2026,U00130,Slot 3,Hindi,Time Series,15,0.9
+PD0026,P007,2026,U01335,Slot 5,English,RL,1,0.92
+PD0027,P008,2026,U00291,Slot 2,French,Climate,15,0.71
+PD0028,P008,2026,U01254,Slot 5,Spanish,NLP,15,0.83
+PD0029,P008,2026,U00432,Slot 5,Hindi,Climate,15,0.82
+PD0030,P008,2026,U00933,Slot 1,Spanish,Time Series,3,0.77
