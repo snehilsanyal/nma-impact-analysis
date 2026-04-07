@@ -38,16 +38,18 @@ The project is intentionally designed around workflows such as:
 
 ## Demo
 
-### Short Demo GIF *(placeholder)*
+[YouTube Link](https://www.youtube.com/watch?v=Y7sfe6DCc2c)
+
+### Short Demo GIF 
 <p align="center">
   <img src="assets/demo.gif" alt="Project Demo GIF" width="900"/>
 </p>
 
-> Add a short GIF here later showing filters, KPIs, and 2–3 dashboard interactions.
+
 
 ---
 
-## Dashboard Screenshots *(placeholders)*
+## Dashboard Screenshots 
 
 ### Dashboard Overview
 <p align="center">
@@ -175,13 +177,15 @@ Each table is individually cleaned and validated for:
 
 All cleaned datasets are merged into:
 
-`master_student_program.csv`
-`daily_master.csv`
-`program_metrics.csv`
+1. `master_student_program.csv`
+
+2. `daily_master.csv`
+
+3. `program_metrics.csv`
 
 ### 5. Analysis
 
-Core program impact and engagement insights are extracted via EDA and reporting.
+Core program impact and engagement insights are extracted via Exploratory Data Analysis and reporting.
 
 ### 6. Dashboarding
 
@@ -228,7 +232,7 @@ The system includes the following core tables:
 
 A full description of all columns, PK/FK structure, and relationships is available in:
 
-```
+```bash
 docs/schema.md
 ```
 ## Key Derived Outputs
@@ -303,18 +307,24 @@ And visual sections for:
 ## How to Run
 
 ### 1. Clone the repository
-```
+
+```bash
 git clone <your-repo-link>
 cd academy-impact-analytics
 ```
+
 ### 2. Install dependencies
-```
+
+```bash
 pip install -r requirements.txt
 ```
+
 ### 3. Generate synthetic data
-```
+
+```bash
 python src/generate_data.py
 ```
+
 ### 4. Run notebooks (optional but recommended)
 
 Open and run:
@@ -324,60 +334,28 @@ notebooks/02_data_merging.ipynb
 notebooks/03_analysis.ipynb
 ```
 ### 5. Launch dashboard
-```
+
+```bash
 streamlit run dashboard/app.py
 ```
-
-## Suggested `requirements.txt`
-
-```
-pandas
-numpy
-faker
-matplotlib
-plotly
-streamlit
-jupyter
+or 
+```bash
+python -m streamlit run dashboard/app.py
 ```
 
 ## Future Improvements
 
 Potential future extensions include:
 
-- more realistic cohort matching / pod formation logic
-- predictive dropout modeling
-- NLP-based open feedback analysis
-- TA performance benchmarking
-- automated PDF impact report generation
-- dashboard deployment to cloud
-
-
-## Why This Project Matters
-
-This project is not just a dashboard or a synthetic dataset exercise.
-
-It is designed as a realistic simulation of how data systems can support global education programs, especially those that require:
-
-- operational coordination
-- standardized metrics
-- impact reporting
-- leadership decision support
-- equitable and scalable learner experiences
+1. More realistic cohort matching / pod formation logic
+2. Predictive dropout modeling
+3. NLP-based open feedback analysis
+4. TA performance benchmarking
+5. Automated PDF impact report generation
+6. Dashboard deployment to cloud
 
 ## Author
 
-Snehil Sanyal
+### Snehil Sanyal 🤗
 
 If you’d like to connect, collaborate, or discuss analytics / AI / education systems, feel free to reach out.
-
-
-**requirements.txt**
-```txt
-pandas
-numpy
-faker
-matplotlib
-plotly
-streamlit
-jupyter
-```
