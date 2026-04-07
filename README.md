@@ -53,22 +53,22 @@ The project is intentionally designed around workflows such as:
 
 ### Dashboard Overview
 <p align="center">
-  <img src="assets/dashboard_overview.png" alt="Dashboard Overview" width="900"/>
+  <img src="assets/dashboard_overview.PNG" alt="Dashboard Overview" width="900"/>
 </p>
 
 ### Program Comparison View
 <p align="center">
-  <img src="assets/program_comparison.png" alt="Program Comparison" width="900"/>
+  <img src="assets/program_comparison.PNG" alt="Program Comparison" width="900"/>
 </p>
 
 ### Engagement & Outcomes View
 <p align="center">
-  <img src="assets/engagement_outcomes.png" alt="Engagement and Outcomes" width="900"/>
+  <img src="assets/engagement_outcomes.PNG" alt="Engagement and Outcomes" width="900"/>
 </p>
 
 ### Cohort / Diversity Analysis
 <p align="center">
-  <img src="assets/cohort_analysis.png" alt="Cohort Analysis" width="900"/>
+  <img src="assets/cohort_analysis.PNG" alt="Cohort Analysis" width="900"/>
 </p>
 
 ---
